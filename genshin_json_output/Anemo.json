@@ -1,0 +1,1175 @@
+[
+  {
+    "name": "SUCROSE",
+    "element": "Anemo",
+    "builds": [
+      {
+        "role": "EM SUPPORT\n✩",
+        "weapons": [
+          "1. A Thousand Floating Dreams (5✩)",
+          "≈ Sunny Morning Sleep-In (5✩)",
+          "2. Wandering Evenstar (4✩)",
+          "3. Sacrificial Fragments (4✩)",
+          "≈ Thrilling Tales of Dragon Slayers (3✩)*",
+          "4. Hakushin Ring (4✩)*",
+          "5. Magic Guide (3✩)",
+          "6. Favonius Codex (4✩)*"
+        ],
+        "artifacts": [
+          "1. Viridescent Venerer (4)",
+          "2. Instructor (4)",
+          "3. +80 EM set (2) +80 EM set (2)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery",
+            "Goblet - Elemental Mastery",
+            "Circlet - Elemental Mastery"
+          ],
+          "sub": [
+            "1. Elemental Mastery",
+            "2. Energy Recharge",
+            "3. ATK%",
+            "4. Crit Rate / DMG"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst",
+          "*Sucrose's Talent Levels are not a necessity."
+        ],
+        "tips": "When utilized as a Viridescent Venerer (4) artifact set holder, make sure you don't immediately swap away after casting Skill/Burst, you need to be on-field when the swirl reaction happens for you to trigger the 4-set effect."
+      }
+    ]
+  },
+  {
+    "name": "SAYU",
+    "element": "Anemo",
+    "builds": [
+      {
+        "role": "HEAL SUPPORT\n✩",
+        "weapons": [
+          "1. Favonius Greatsword (4✩)",
+          "2. Wolf's Gravestone (5✩)*",
+          "3. Katsuragikiri Nagamasa (4✩)",
+          "4. Skyward Pride (5✩)",
+          "5. Sacrificial Greatsword (4✩) [R3+]",
+          "6. Makhaira Aquamarine (4✩)",
+          "7. Mailed Flower (4✩) [R5]",
+          "8. Forest Regalia (4✩)*",
+          "9. Rainslasher (4✩)",
+          "10. Bloodtainted Greatsword (3✩)"
+        ],
+        "artifacts": [
+          "1. Viridescent Venerer (4)*",
+          "2. Noblesse Oblige (4)",
+          "3. Emblem of Severed Fate (2) +15% Healing Bonus set (2)",
+          "4. Ocean-Hued Clam (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / Elemental Mastery",
+            "Goblet - Elemental Mastery / ATK%",
+            "Circlet - Healing Bonus / Elemental Mastery"
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. Elemental Mastery",
+            "3. ATK%",
+            "4. Crit Rate**",
+            "**Crit Rate only for",
+            "Favonius Greatsword."
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill"
+        ],
+        "tips": "Use hold Skill then immediately press it to generate more particles."
+      }
+    ]
+  },
+  {
+    "name": "SHIKANOIN HEIZOU",
+    "element": "Anemo",
+    "builds": [
+      {
+        "role": "\nANEMO DPS\n ✩",
+        "weapons": [
+          "1. Kagura's Verity (5✩)",
+          "≈ Skyward Atlas (5✩)",
+          "2. Lost Prayer to the Sacred Winds (5✩)*",
+          "≈ Cashflow Supervision (5✩)",
+          "≈ Tome of the Eternal Flow (5✩)",
+          "3. Tulaytullah's Remembrance (5✩)",
+          "≈ Solar Pearl (4✩)",
+          "≈ Memory of Dust (5✩)",
+          "≈ The Widsith (4✩)*",
+          "4. Mappa Mare (4✩)",
+          "≈ Flowing Purity (4✩)",
+          "5. Favonius Codex (4✩)*",
+          "≈ Thrilling Tales of Dragon Slayers (3✩)*",
+          "≈ Hakushin Ring (4✩)*",
+          "≈ Prototype Amber (4✩)*"
+        ],
+        "artifacts": [
+          "1. Viridescent Venerer (4)*",
+          "2. Golden Troupe (4)",
+          "3. Golden Troupe (2) / +15% Anemo DMG set (2)",
+          "4. Desert Pavilion Chronicle (4)",
+          "≈ +15% Anemo DMG set (2) / Golden Troupe (2) / +18% ATK set (2) / +80 EM set (2) [Choose Two]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK%",
+            "Goblet - Anemo DMG",
+            "Circlet - Crit Rate / Crit DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. ATK%",
+            "3. Energy Recharge",
+            "4. Elemental Mastery"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Normal Attack",
+          "3. Burst"
+        ],
+        "tips": "ABILITY TIPS"
+      },
+      {
+        "role": "\nREACTION DPS\n ✩",
+        "weapons": [
+          "1. Sunny Morning Sleep-In (5✩)",
+          "2. A Thousand Floating Dreams (5✩)",
+          "3. Sacrificial Fragments (4✩)",
+          "≈ Wandering Evenstar (4✩)",
+          "4. Mappa Mare (4✩)",
+          "5. Favonius Codex (4✩)*",
+          "≈ Thrilling Tales of Dragon Slayers (3✩)*",
+          "≈ Hakushin Ring (4✩)*",
+          "≈ Prototype Amber (4✩)*"
+        ],
+        "artifacts": [
+          "1. Viridescent Venerer (4)",
+          "2. Noblesse Oblige (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery",
+            "Goblet - Elemental Mastery",
+            "Circlet - Elemental Mastery"
+          ],
+          "sub": [
+            "1. Elemental Mastery",
+            "2. ATK%",
+            "3. Energy Recharge",
+            "4. Crit Rate"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Normal Attack",
+          "3. Burst"
+        ],
+        "tips": "ABILITY TIPS"
+      }
+    ]
+  },
+  {
+    "name": "FARUZAN",
+    "element": "Anemo",
+    "builds": [
+      {
+        "role": "BUFF SUPPORT\n✩",
+        "weapons": [
+          "1. Favonius Warbow (4✩)",
+          "2. Elegy for the End (5✩)*",
+          "3. Snare Hook (4✩)",
+          "4. End of the Line (4✩)",
+          "5. Fading Twilight (4✩)",
+          "≈ Sacrificial Bow (4✩)*"
+        ],
+        "artifacts": [
+          "1. Noblesse Oblige (4)*",
+          "≈ Scroll of the Hero of Cinder City (4)",
+          "2. Viridescent Venerer (4)*",
+          "3. Emblem of Severed Fate (4)*",
+          "4. Golden Troupe (4)*",
+          "≈ Tenacity of the Millelith (4)*",
+          "5. Emblem of Severed Fate (2) / Any (2) / +20% ER set (2)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge",
+            "Goblet - Anemo DMG*",
+            "Circlet - Crit Rate / DMG",
+            "*Due to Faruzan's high Energy Recharge requirements pre-C6, it is acceptable to disregard running an Anemo goblet in favor of a goblet which provides more ER. A Crit Rate circlet should still be taken to ensure Favonius procs."
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. Crit Rate*",
+            "3. Crit DMG",
+            "4. ATK%",
+            "*Only assumes higher priority than Crit DMG when using Favonius Warbow"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill"
+        ],
+        "tips": "Regarding Optimal Rotations\n\nFor funneling particles to Faruzan:\nSkill --> Charged Shot --> Burst\n\nFor funneling particles to other units:\nSkill --> Burst --> Charged Shot\n\nAt C6 bear in mind the Charged shot portion of the rotation no longer becomes necessary since your burst will start activating the Pressurized Collapses instead.\n"
+      }
+    ]
+  },
+  {
+    "name": "LYNETTE",
+    "element": "Anemo",
+    "builds": [
+      {
+        "role": "OFF-FIELD DPS\n✩",
+        "weapons": [
+          "1. Favonius Sword (4✩)",
+          "2. Fleuve Cendre Ferryman (4✩)",
+          "≈ Sacrificial Sword (4✩)*",
+          "≈ Amenoma Kageuchi (4✩)",
+          "≈ Skyward Blade (5✩)",
+          "3. Freedom-Sworn (5✩)*"
+        ],
+        "artifacts": [
+          "1. Viridescent Venerer (4)",
+          "2. Emblem of Severed Fate (4)*",
+          "3. Noblesse Oblige (4)*",
+          "4. +15% Anemo DMG set (2) / +20% ER set (2) / Noblesse Oblige (2) / +18% ATK set (2) [Choose Two]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / ATK%",
+            "Goblet - Anemo DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. Crit Rate**",
+            "3. Crit DMG",
+            "4. ATK%",
+            "*Prioritize Energy Recharge until you meet the requirement.",
+            "**Only assumes higher priority than Crit DMG when using Favonius Sword"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill"
+        ],
+        "tips": "ABILITY TIPS"
+      }
+    ]
+  },
+  {
+    "name": "LAN YAN",
+    "element": "Anemo",
+    "builds": [
+      {
+        "role": "SHIELD & BUFF\nSUPPORT\n✩",
+        "weapons": [
+          "1. Starcaller's Watch (5✩)",
+          "2. Thrilling Tales of Dragon Slayers (3✩)",
+          "3. Favonius Codex (4✩)",
+          "4. Crane's Echoing Call (5✩)",
+          "5. Hakushin Ring (4✩)*",
+          "6. Prototype Amber (4✩)"
+        ],
+        "artifacts": [
+          "1. Viridescent Venerer (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK% / Energy Recharge",
+            "Goblet - ATK%",
+            "Circlet - ATK% / Crit Rate*",
+            "*Crit Rate only if using Favonius Codex"
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. ATK%",
+            "3. Elemental Mastery",
+            "4. Crit Rate*",
+            "*Crit Rate only if using Favonius Codex"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "Lan Yan's shield can undergo Elemental Absorption, meaning that her shield can absorb PHEC (Pyro/Hydro/Electro/Cryo) and become more resistant to the element it has absorbed.\n\nLan Yan has to make contact with an enemy upon skill cast for the absorption to take place."
+      },
+      {
+        "role": "DRIVER",
+        "weapons": [
+          "1. Starcaller's Watch (5✩)",
+          "2. Sacrificial Fragments (4✩)",
+          "≈ Wandering Evenstar (4✩)",
+          "3. Thrilling Tales of Dragon Slayers (3✩)",
+          "4. Favonius Codex (4✩)",
+          "5. Crane's Echoing Call (5✩)",
+          "6. Hakushin Ring (4✩)*"
+        ],
+        "artifacts": [
+          "1. Viridescent Venerer (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery / ATK% / Energy Recharge",
+            "Goblet - Elemental Mastery / ATK%",
+            "Circlet - Elemental Mastery / ATK% / Crit Rate*",
+            "*Crit Rate only if using Favonius Codex"
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. ATK%",
+            "3. Elemental Mastery",
+            "4. Crit Rate*",
+            "*Crit Rate only if using Favonius Codex"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "Lan Yan's shield can undergo Elemental Absorption, meaning that her shield can absorb PHEC (Pyro/Hydro/Electro/Cryo) and become more resistant to the element it has absorbed.\n\nLan Yan has to make contact with an enemy upon skill cast for the absorption to take place."
+      }
+    ]
+  },
+  {
+    "name": "IFA",
+    "element": "Anemo",
+    "builds": [
+      {
+        "role": "REACTION DPS\n",
+        "weapons": [
+          "1. Sunny Morning Sleep-In (5✩)",
+          "≈ Starcaller's Watch (5✩)",
+          "2. A Thousand Floating Dreams (5✩)",
+          "3. Wandering Evenstar (4✩)",
+          "4. Sacrificial Fragments (4✩)*",
+          "≈ Mappa Mare (4✩) [R5]",
+          "5. Hakushin Ring (4✩) [R5]",
+          "6. Thrilling Tales of Dragon Slayers (3✩)*"
+        ],
+        "artifacts": [
+          "1. Viridescent Venerer (4)",
+          "2. Obsidian Codex (4)",
+          "3. Scroll of the Hero of Cinder City (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery / Energy Recharge",
+            "Goblet - Elemental Mastery",
+            "Circlet - Elemental Mastery"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. Elemental Mastery",
+            "3. ATK%",
+            "4. Crit Rate / DMG",
+            "*Prioritize until requirements are met"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "ABILITY TIPS"
+      },
+      {
+        "role": "ANEMO DPS\n✩",
+        "weapons": [
+          "1. Tulaytullah's Remembrance (5✩)",
+          "2. Vivid Notions (5✩)",
+          "3. Skyward Atlas (5✩)",
+          "≈ Surf's Up! (5✩)",
+          "4. Tome of the Eternal Flow (5✩)",
+          "≈ A Thousand Floating Dreams (5✩)",
+          "≈ Kagura's Verity (5✩)",
+          "≈ Lost Prayer to the Sacred Winds (5✩)",
+          "≈ Cashflow Supervision (5✩)*",
+          "5. Flowing Purity (4✩)",
+          "≈ Sunny Morning Sleep-In (5✩)",
+          "≈ Mappa Mare (4✩) [R5]",
+          "≈ The Widsith (4✩)*",
+          "≈ Memory of Dust (5✩)"
+        ],
+        "artifacts": [
+          "1. Obsidian Codex (4)",
+          "2. Viridescent Venerer (4)*",
+          "3. Scroll of the Hero of Cinder City (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK%",
+            "Goblet - Anemo DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. ATK%",
+            "3. Elemental Mastery",
+            "4. Energy Recharge"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "Ifa's healing as an Anemo DPS by itself is generally not enough to fulfill Furina's Fanfare, so it's recommended to pair him with another healer, most notably being Sayu."
+      }
+    ]
+  },
+  {
+    "name": "JAHODA",
+    "element": "Anemo",
+    "builds": [
+      {
+        "role": "OFF-FIELD REACTION DPS & HEAL SUPPORT\n✩",
+        "weapons": [
+          "1. Favonius Warbow (4✩)",
+          "2. Elegy for the End (5✩)",
+          "3. Rainbow Serpent's Rain Bow (4✩) [R5]",
+          "4. Snare Hook (4✩)"
+        ],
+        "artifacts": [
+          "1. Viridescent Venerer (4)*",
+          "2. Silken Moon's Serenade (4)",
+          "Conditional (see notes):",
+          "Deepwood Memories (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / ATK%",
+            "Goblet - ATK%",
+            "Circlet - Healing Bonus / ATK% / Crit Rate*",
+            "*Crit Rate only if using Favonius Warbow"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. ATK%",
+            "3. Crit Rate**",
+            "4. Elemental Mastery",
+            "*Prioritize until requirements are met",
+            "**Crit Rate only if using Favonius Warbow"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill"
+        ],
+        "tips": "Jahoda heavily favors having Moonsign: Ascendant Gleam.\n\nHer Skill and Burst Infusion priority is Pyro>Hydro>Electro>Cryo.\n\nIf the active character has 70% HP or more, Jahoda's Burst will also heal the character with the lowest HP.\n\nJahoda's [C6] will only take effect if the Purr-Loined Treasure Flask is full."
+      }
+    ]
+  },
+  {
+    "name": "PRUNE",
+    "element": "Anemo",
+    "builds": [
+      {
+        "role": "BUFF SUPPORT\n✩",
+        "weapons": [
+          "1. Favonius Codex (4✩)*",
+          "2. Angelos' Heptades (5✩)",
+          "≈ Crane's Echoing Call (5✩)",
+          "3. Skyward Atlas (5✩)",
+          "≈ Memory of Dust (5✩)",
+          "4. Oathsworn Eye (4✩) [R5]",
+          "5. Flowing Purity (4✩)",
+          "6. Thrilling Tales of Dragon Slayers (3✩)* [R5]"
+        ],
+        "artifacts": [
+          "1. Viridescent Venerer (4)*",
+          "≈ Celestial Gift (4)*",
+          "2. Noblesse Oblige (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / ATK%",
+            "Goblet - ATK%",
+            "Circlet - ATK% / Crit Rate**"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. ATK%",
+            "3. Crit Rate**",
+            "*Prioritize until requirements are met"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill",
+          "*Talent levels are not a necessity as they do not increase Prune's buffing capabilities."
+        ],
+        "tips": "Tolling Rally does not apply to Prune herself.\n\nTolling Rally caps out at 4,000 ATK, usually not feasible to get unless Prune is in a Hexerei team where the DPS actively triggers Swirl as well."
+      }
+    ]
+  },
+  {
+    "name": "TRAVELER",
+    "element": "Anemo",
+    "builds": [
+      {
+        "role": "ANEMO DPS\n ✩",
+        "weapons": [
+          "1. Freedom-Sworn (5✩)",
+          "2. Primordial Jade Cutter (5✩)",
+          "≈ Mistsplitter Reforged (5✩)",
+          "3. Sacrificial Sword (4✩)*",
+          "4. Iron Sting (4✩)",
+          "5. Summit Shaper (5✩)",
+          "≈ Skyward Blade (5✩)",
+          "≈ Festering Desire (4✩)",
+          "6. Aquilla Favonia (5✩)",
+          "7. Lion's Roar (4✩)",
+          "≈ Amenoma Kageuchi (4✩) [R1]*",
+          "≈ Favonius Sword (4✩)*",
+          "8. Dark Iron Sword (3✩)"
+        ],
+        "artifacts": [
+          "1. Viridescent Venerer (4)",
+          "2. +15% Anemo DMG set (2) / +80 EM set (2) / Noblesse Oblige (2) / +18% ATK set (2) [Choose Two]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery / ATK% / Energy Recharge",
+            "Goblet - Elemental Mastery / Anemo DMG",
+            "Circlet - Elemental Mastery / Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Elemental Mastery",
+            "2. Energy Recharge",
+            "3. ATK%",
+            "4. Crit Rate / DMG",
+            "**Crit Rate / DMG will have higher priority for a full Crit build"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst",
+          "*For an EM-focused build, upgrading Traveler's talent levels isn't a necessity."
+        ],
+        "tips": "ABILITY TIPS"
+      }
+    ]
+  },
+  {
+    "name": "JEAN",
+    "element": "Anemo",
+    "builds": [
+      {
+        "role": "HEAL SUPPORT & DAMAGE\n✩",
+        "weapons": [
+          "1. Primordial Jade Cutter (5✩)",
+          "2. Freedom-Sworn (5✩)",
+          "3. Mistsplitter Reforged (5✩)",
+          "≈ Haran Geppaku Futsu (5✩)",
+          "4. Skyward Blade (5✩)",
+          "≈ Festering Desire (4✩) [R5]",
+          "≈ Favonius Sword (4✩)",
+          "≈ Amenoma Kageuchi (4✩)*",
+          "5. Summit Shaper (5✩)",
+          "6. Aquila Favonia (5✩)",
+          "7. The Flute (4✩)",
+          "≈ Sapwood Blade (4✩)",
+          "≈ Lion's Roar (4✩)*"
+        ],
+        "artifacts": [
+          "1. Viridescent Venerer (4)*",
+          "2. Noblesse Oblige (4)*",
+          "3. Ocean-Hued Clam (4)*",
+          "4. Emblem of Severed Fate (2) / Noblesse Oblige (2) / +15% Anemo DMG set (2) / +18% ATK set (2) [Choose Two]",
+          "≈ Emblem of Severed Fate (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK% / Energy Recharge",
+            "Goblet - Anemo Damage / ATK%*",
+            "Circlet - Crit Rate / DMG / Healing Bonus*",
+            "*Check notes"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. Crit Rate = Crit DMG",
+            "3. ATK%",
+            "4. Elemental Mastery",
+            "*Prioritize Energy Recharge until requirement is met"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst = Skill*"
+        ],
+        "tips": "ABILITY TIPS"
+      },
+      {
+        "role": "REACTION DPS",
+        "weapons": [
+          "1. Freedom-Sworn (5✩)",
+          "2. Xiphos' Moonlight (4✩)",
+          "3. Iron Sting (4✩)",
+          "≈ Toukabou Shigure (4✩)",
+          "4. Favonius Sword (4✩)",
+          "5. Dark Iron Sword (3✩)"
+        ],
+        "artifacts": [
+          "1. Viridescent Venerer (4)",
+          "2. Gilded Dreams (4)",
+          "3. +80 EM set (2) +80 EM set (2)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / Elemental Mastery",
+            "Goblet - Elemental Mastery",
+            "Circlet - Elemental Mastery"
+          ],
+          "sub": [
+            "1. Energy Recharge *until requirement",
+            "2. Elemental Mastery",
+            "3. ATK%"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst = Skill*",
+          "**talents are not large upgrades for Reaction DPS Jean"
+        ],
+        "tips": "ABILITY TIPS"
+      }
+    ]
+  },
+  {
+    "name": "VENTI",
+    "element": "Anemo",
+    "builds": [
+      {
+        "role": "OFF-FIELD DPS\n✩",
+        "weapons": [
+          "1. The Daybreak Chronicles (5✩)",
+          "2. Polar Star (5✩)",
+          "3. Astral Vulture's Crimson Plumage (5✩)",
+          "4. Hunter's Path (5✩)",
+          "≈ The First Great Magic (5✩)*",
+          "≈ Aqua Simulacra (5✩)",
+          "≈ Skyward Harp (5✩)",
+          "5. Thundering Pulse (5✩)",
+          "6. Mouun's Moon (4✩)*",
+          "≈ Song of Stillness (4✩) [R5]*",
+          "≈ The Stringless (4✩)",
+          "≈ Alley Hunter (4✩)"
+        ],
+        "artifacts": [
+          "1. Viridescent Venerer (4)",
+          "*Prioritize this set unless someone else holds it",
+          "2. A Day Carved From Rising Winds (4)",
+          "3. Noblesse Oblige (4)",
+          "4. Scroll of the Hero of Cinder City (4)",
+          "5. Gilded Dreams (4)",
+          "6. Emblem of Severed Fate (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK%",
+            "Goblet - Anemo DMG / ATK%",
+            "Circlet - Crit Rate / DMG",
+            "**Elemental Mastery can be used as an alternative Main Stat, however, it is less recommended**"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. ATK%",
+            "3. Elemental Mastery",
+            "4. Energy Recharge"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill",
+          "*For a Reaction-focused build, upgrading Venti's talent levels isn't a necessity."
+        ],
+        "tips": "Make sure you don't immediately swap away after casting Burst; you need to be on-field for VV 4-set perk to proc on Swirl first.(E > Q to avoid this issue)\n\nYou can infuse elements onto Venti's Burst if you walk into it with an elemental aura on you. (e.g. Bennett Burst > Venti Burst > Walk up to infuse Pyro)\n\nCheck out this link to see which characters can hit the enemies sucked and ragdolled in Venti's burst. "
+      },
+      {
+        "role": "ON-FIELD DPS\n✩",
+        "weapons": [
+          "1. The Daybreak Chronicles (5✩)",
+          "2. Polar Star (5✩)",
+          "3. Thundering Pulse (5✩)",
+          "≈ Hunter's Path (5✩)",
+          "≈ Skyward Harp (5✩)",
+          "≈ Aqua Simulacra (5✩)",
+          "4. Astral Vulture's Crimson Plumage (5✩)*",
+          "≈ The First Great Magic (5✩)*",
+          "5. Amos' Bow (5✩)",
+          "≈ Slingshot (3✩) [R5]",
+          "≈ Song of Stillness (4✩) [R5]*",
+          "≈ The Viridescent Hunt (4✩)",
+          "6. Rust (4✩)*",
+          "≈ Mouun's Moon (4✩)"
+        ],
+        "artifacts": [
+          "1. A Day Carved From Rising Winds (4)",
+          "2. Desert Pavillion Chronicle (4)*",
+          "3. Echoes of an Offering (4)*",
+          "4. Viridescent Venerer (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK%",
+            "Goblet - Anemo DMG",
+            "Circlet Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. ATK%",
+            "3. Elemental Mastery",
+            "4. Energy Recharge"
+          ]
+        },
+        "talent_priority": [
+          "1. Normal Attack",
+          "2. Burst",
+          "3. Skill"
+        ],
+        "tips": "Make sure you don't immediately swap away after casting Burst; you need to be on-field for VV 4-set perk to proc on Swirl first.(E > Q to avoid this issue)\n\nYou can infuse elements onto Venti's Burst if you walk into it with an elemental aura on you. (e.g. Bennett Burst > Venti Burst > Walk up to infuse Pyro)\n\nCheck out this link to see which characters can hit the enemies sucked and ragdolled in Venti's burst. "
+      }
+    ]
+  },
+  {
+    "name": "XIAO",
+    "element": "Anemo",
+    "builds": [
+      {
+        "role": "DPS\n ✩",
+        "weapons": [
+          "1. Fractured Halo (5✩)",
+          "≈ Staff of Homa (5✩)",
+          "≈ Primordial Jade Winged-Spear (5✩)",
+          "≈ Lumidouce Elegy (5✩)",
+          "≈ Symphonist of Scents (5✩)",
+          "2. Staff of the Scarlet Sands (5✩)",
+          "3. Calamity Queller (5✩)*",
+          "≈ Deathmatch (4✩)",
+          "≈ Crimson Moon's Semblance (5✩)*",
+          "≈ Vortex Vanquisher (5✩)*",
+          "≈ Skyward Spine (5✩)*",
+          "4. Blackcliff Pole (0 stacks) (4✩)*",
+          "≈ Tamayuratei no Ohanashi [R5] (4✩)",
+          "5. Lithic Spear (4✩)*",
+          "6. Missive Windspear [R5] (4✩)*",
+          "≈ Prospector's Drill (4✩)*",
+          "≈ Wavebreaker's Fin (4✩)",
+          "7. Favonius Lance (4✩)*",
+          "8. White Tassel (3✩)"
+        ],
+        "artifacts": [
+          "1. Marechaussee Hunter (4)*",
+          "≈ Vermillion Hereafter (4)",
+          "≈ Long Night's Oath (4)*",
+          "2. Desert Pavilion Chronicle (4)*",
+          "3. Long Night's Oath (2) and +15% Anemo DMG set (2) / +18% ATK set (2) / Emblem of Severed Fate (2) [Choose One]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK%",
+            "Goblet - Anemo DMG / ATK%*",
+            "Circlet - Crit Rate / DMG",
+            "*ATK% Goblets are generally worse than Anemo DMG Goblets, however good substats can make up for the difference"
+          ],
+          "sub": [
+            "1. Energy Recharge until requirement is met",
+            "2. Crit Rate/DMG",
+            "3. ATK%"
+          ]
+        },
+        "talent_priority": [
+          "1. Normal Attack",
+          "2. Burst",
+          "3. Skill"
+        ],
+        "tips": "Regarding Xiao's Optimal Skill Rotation:\nSkill -> Skill -> Burst -> Plunge Combo\n\nRegarding Xiao's Plunge Combo:\nBest combo for Xiao when fighting a single target:\nNormal Attack -> Charged Attack -> High Plunge (no collision possible)\n\nNormal Attack -> Charged Attack -> Low Plunge (collision only possible on Low Plunge)\n\nHigh Plunge spam (collision possible on High Plunge)\n\nBest combo for Xiao when fighting multiple enemies:\nHigh Plunge spam "
+      }
+    ]
+  },
+  {
+    "name": "KAEDEHARA KAZUHA",
+    "element": "Anemo",
+    "builds": [
+      {
+        "role": "REACTION DPS & BUFF SUPPORT\n✩",
+        "weapons": [
+          "1. Freedom-Sworn (5✩)",
+          "2. Favonius Sword (4✩)*",
+          "3. Xiphos' Moonlight (4✩)*",
+          "4. Sacrificial Sword (4✩)*",
+          "≈ Fleuve Cendre Ferryman (4✩)",
+          "≈ Skyward Blade (5✩)",
+          "5. Iron Sting (4✩)*",
+          "≈ Toukabou Shigure (4✩)*",
+          "≈ Skyrider Sword (3✩)"
+        ],
+        "artifacts": [
+          "1. Viridescent Venerer (4)",
+          "2. Thundering Fury (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery / Energy Recharge",
+            "Goblet - Elemental Mastery",
+            "Circlet - Elemental Mastery"
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. Elemental Mastery",
+            "3. Crit Rate*",
+            "*Crit Rate substats are only important when running Favonius Sword"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill = NA*",
+          "Kazuha generally does not need his talents leveled on an EM build.",
+          "*Upgrading Kazuha's NA talent increases the damage of his plunge attack after using skill"
+        ],
+        "tips": "The element which is absorbed by Kazuha's elemental burst follows the priority of Pyro > Hydro > Electro > Cryo, and can be absorbed from both the active character and enemies. (i.e. Standing in Bennett 's Elemental Burst will result in Kazuha's Elemental Burst infusing Pyro as Bennett's Elemental Burst applies Pyro to the active character)\n"
+      }
+    ]
+  },
+  {
+    "name": "WANDERER",
+    "element": "Anemo",
+    "builds": [
+      {
+        "role": "DPS\n✩",
+        "weapons": [
+          "1. Tulaytullah's Remembrance (5✩)",
+          "2. Memory of Dust (5✩)*",
+          "≈ Skyward Atlas (5✩)",
+          "≈ Lost Prayer to the Sacred Winds (5✩)",
+          "3. The Widsith (4✩)*",
+          "≈ Dodoco Tales [R5] (4✩)*",
+          "4. Kagura's Verity (5✩)",
+          "≈ Tome of the Eternal Flow (5✩)",
+          "5. Solar Pearl (4✩)",
+          "6. Ballad of the Boundless Blue [R5] (4✩)",
+          "7. Blackcliff Agate (4✩)",
+          "≈ Eye of Perception (4✩)",
+          "8. Mappa Mare (4✩)",
+          "≈ Frostbearer (4✩"
+        ],
+        "artifacts": [
+          "1. Desert Pavilion Chronicle (4)",
+          "2. Shimenawa's Reminiscence (4)*",
+          "3. Echoes of an Offering (4)*",
+          "4. +15% Anemo DMG Set (2) +15% Anemo DMG Set (2) +18% ATK Set (2) +18% ATK Set (2) [Choose Two]",
+          "5. Viridescent Venerer (4)*",
+          "Conditional (See Notes):",
+          "Blizzard Strayer (4)*",
+          "Lavawalker (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK%",
+            "Goblet - Anemo DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. ATK%",
+            "3. Flat ATK",
+            "4. Elemental Mastery",
+            "5. Energy Recharge"
+          ]
+        },
+        "talent_priority": [
+          "1. Normal Attack",
+          "2. Skill",
+          "3. Burst",
+          "**IF WANDERER IS C2, PRIORITIZE BURST OVER SKILL"
+        ],
+        "tips": "Desert Pavilion and Signature Weapon Rotation: (Q) E CA (N3 repeat)\n\nSignature Weapon Rotation (non Desert Pavilion): (Q) E (N3 repeat) \n\nDesert Pavilion Rotation: (Q) E CA (N2C repeat)\n\nOther Artifact Sets Rotation: (Q) E (N2C repeat)\n\nShimenawa's Reminiscence Rotation: E (N2C repeat) (Q)\n\nSwirl Driver Rotation: E (N3C repeat)"
+      },
+      {
+        "role": "DPS (WITH EXTERNAL ATK BUFFS)\n✩",
+        "weapons": [
+          "1. Tulaytullah's Remembrance (5✩)",
+          "2. Lost Prayer to the Sacred Winds (5✩)",
+          "3. The Widsith (4✩)*",
+          "4. Kagura's Verity (5✩)",
+          "≈ Tome of the Eternal Flow (5✩)",
+          "≈ Skyward Atlas (5✩)",
+          "≈ Memory of Dust (5✩)*",
+          "5. Solar Pearl (4✩)",
+          "≈ Dodoco Tales [R5] (4✩)*",
+          "6. Ballad of the Boundless Blue [R5] (4✩)",
+          "7. Blackcliff Agate (4✩)",
+          "8. Eye of Perception (4✩)",
+          "9. Mappa Mare (4✩)",
+          "≈ Frostbearer (4✩)"
+        ],
+        "artifacts": [
+          "1. Desert Pavilion Chronicle (4)",
+          "2. Shimenawa's Reminiscence (4)*",
+          "3. Echoes of an Offering (4)*",
+          "4. +15% Anemo DMG Set (2) +15% Anemo DMG Set (2) +18% ATK Set (2) +18% ATK Set (2) [Choose Two]",
+          "5. Viridescent Venerer (4)*",
+          "Conditional (See Notes):",
+          "Blizzard Strayer (4)*",
+          "Lavawalker (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK%",
+            "Goblet - Anemo DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. ATK%",
+            "3. Flat ATK",
+            "4. Elemental Mastery",
+            "5. Energy Recharge"
+          ]
+        },
+        "talent_priority": [
+          "1. Normal Attack",
+          "2. Skill",
+          "3. Burst",
+          "**IF WANDERER IS C2, PRIORITIZE BURST OVER SKILL"
+        ],
+        "tips": "Desert Pavilion and Signature Weapon Rotation: (Q) E CA (N3 repeat)\n\nSignature Weapon Rotation (non Desert Pavilion): (Q) E (N3 repeat) \n\nDesert Pavilion Rotation: (Q) E CA (N2C repeat)\n\nOther Artifact Sets Rotation: (Q) E (N2C repeat)\n\nShimenawa's Reminiscence Rotation: E (N2C repeat) (Q)\n\nSwirl Driver Rotation: E (N3C repeat)"
+      }
+    ]
+  },
+  {
+    "name": "XIANYUN",
+    "element": "Anemo",
+    "builds": [
+      {
+        "role": "HIGH ENERGY REQUIREMENT\n\nBUFF & HEAL SUPPORT\n✩",
+        "weapons": [
+          "1. Crane's Echoing Call (5✩)",
+          "2. Favonius Codex (4✩)*",
+          "≈ Oathsworn Eye (4✩)",
+          "3. Wine and Song (4✩)",
+          "4. Ballad of the Boundless Blue (4✩)",
+          "≈ Hakushin Ring (4✩)*",
+          "≈ Prototype Amber (4✩)* [R3+]"
+        ],
+        "artifacts": [
+          "1.Viridescent Venerer (4)",
+          "2. Noblesse Oblige (4)*",
+          "3. Ocean-Hued Clam (4)*",
+          "≈ Song of Days Past (4)*",
+          "≈ Scroll of the Hero of Cinder City (4)",
+          "4. +18% ATK Set (2) + 18% ATK set (2) / Emblem of Severed Fate (2) [Choose One]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK% / Energy Recharge",
+            "Goblet - ATK%",
+            "Circlet - ATK%"
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. ATK%",
+            "3. Flat ATK",
+            "**Crit Rate**",
+            "*Prioritize Crit Rate if running Favonius"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst"
+        ],
+        "tips": "Most teams will not use all three uses of Xianyun's Skill, since it is too time intensive to do so. A simple E Q is the ideal rotation for most teams."
+      },
+      {
+        "role": "LOW ENERGY REQUIREMENT\n\nBUFF & HEAL SUPPORT\n✩",
+        "weapons": [
+          "1. Crane's Echoing Call (5✩)",
+          "2. Skyward Atlas (5✩)",
+          "≈ Memory of Dust (5✩)",
+          "3. Cashflow Supervision (5✩)",
+          "4. Thrilling Tales of Dragon Slayers (3✩)*",
+          "5. Favonius Codex (4✩)*",
+          "≈Oathsworn Eye (4✩) [R5]",
+          "6. Flowing Purity (4✩)",
+          "7. Wine and Song (4✩)*",
+          "8.  Ballad of the Boundless Blue (4✩)",
+          "≈ Hakushin Ring (4✩)*",
+          "9. Frostbearer (4✩)",
+          "10. Prototype Amber (4✩)*"
+        ],
+        "artifacts": [
+          "1.Viridescent Venerer (4)",
+          "2. Noblesse Oblige (4)*",
+          "3. Ocean-Hued Clam (4)*",
+          "≈ Song of Days Past (4)*",
+          "≈ Scroll of the Hero of Cinder City (4)",
+          "4. +18% ATK Set (2) + 18% ATK set (2) / Emblem of Severed Fate (2) [Choose One]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK% / Energy Recharge",
+            "Goblet - ATK%",
+            "Circlet - ATK%"
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. ATK%",
+            "3. Flat ATK",
+            "**Crit Rate**",
+            "*Prioritize Crit Rate if running Favonius"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst"
+        ],
+        "tips": "Most teams will not use all three uses of Xianyun's Skill, since it is too time intensive to do so. A simple E Q is the ideal rotation for most teams."
+      }
+    ]
+  },
+  {
+    "name": "CHASCA",
+    "element": "Anemo",
+    "builds": [
+      {
+        "role": "DPS\n✩",
+        "weapons": [
+          "1. Astral Vulture's Crimson Plumage (5✩)",
+          "2. Aqua Simulacra (5✩)",
+          "≈ The First Great Magic (5✩)",
+          "3. Thundering Pulse (5✩)",
+          "4. Skyward Harp (5✩)",
+          "5. Amos' Bow (5✩)*",
+          "≈ Polar Star (5✩)*",
+          "≈ Scion of the Blazing Sun (4✩)*",
+          "6. Chain Breaker [R5] (4✩)",
+          "≈ Song of Stillness [R5] (4✩)*",
+          "≈ Flower-Wreathed Feathers (4✩)*",
+          "≈ Hamayumi [R5] (4✩)",
+          "7. Range Gauge (4✩)*"
+        ],
+        "artifacts": [
+          "1. Obsidian Codex (4)",
+          "2. Viridescent Venerer (4)",
+          "Conditional (See Notes)",
+          "Marechaussee Hunter (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK%",
+            "Goblet - ATK%*",
+            "Circlet - Crit Rate / DMG",
+            "**ATK% is the best generalist goblet pick. If Chasca is played in teams which focus on one PHEC damage type however, the respective DMG% Goblet can be competitive"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. ATK%",
+            "3. Elemental Mastery",
+            "4. Energy Recharge*",
+            "**Chasca generally has high Energy Recharge Requirements. Building Energy Recharge to burst every rotation is only feasible in energy rich teams or at [C4+]"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "Chasca's bullets follow the 'last in first out' rule, meaning the last loaded bullet hits first, while the anemo bullet in slot 1 hits last.\n\nChasca ideally needs 3 different types of PHEC (Pyro/Hydro/Electro/Cryo) to maximize the conversion rate and Damage Bonus from her passive Bullet Trick.\n\nIdeal Combo*: 4[CA6]\n\n**Number after 'CA' refers to the number of Bullets loaded\n"
+      }
+    ]
+  },
+  {
+    "name": "YUMEMIZUKI MIZUKI",
+    "element": "Anemo",
+    "builds": [
+      {
+        "role": "REACTION DPS\n✩",
+        "weapons": [
+          "1. Sunny Morning Sleep-In (5✩)",
+          "2. Starcaller's Watch (5✩)",
+          "3. A Thousand Floating Dreams (5✩)",
+          "4. Sacrificial Fragments (4✩)",
+          "≈ Favonius Codex (4✩)*",
+          "≈ Fruit of Fulfillment (4✩)",
+          "5. Hakushin Ring (4✩)*",
+          "≈ Wandering Evenstar (4✩)*",
+          "≈ Magic Guide (3✩)"
+        ],
+        "artifacts": [
+          "1. Viridescent Venerer (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery / Energy Recharge",
+            "Goblet - Elemental Mastery",
+            "Circlet - Elemental Mastery"
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. Elemental Mastery",
+            "3. Crit Rate*",
+            "*Prioritize Crit Rate while using Favonius Codex"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "ABILITY TIPS"
+      }
+    ]
+  },
+  {
+    "name": "VARKA",
+    "element": "Anemo",
+    "builds": [
+      {
+        "role": "DPS\n✩",
+        "weapons": [
+          "1. Gest of the Mighty Wolf (5✩)",
+          "2. Beacon of the Reed Sea (5✩)",
+          "≈ A Thousand Blazing Suns (5✩)",
+          "3. Redhorn Stonethresher (5✩)",
+          "4. Verdict (5✩)",
+          "5. Song of Broken Pines (5✩)*",
+          "6. Serpent Spine (4✩)*",
+          "≈ Wolf's Gravestone (5✩)",
+          "7. Fang of the Mountain King (5✩)*",
+          "≈ The Unforged (5✩)",
+          "8. Tidal Shadow (4✩)*",
+          "≈ Talking Stick (4✩)*",
+          "≈ Blackcliff Slasher (4✩)",
+          "9. \"Ultimate Overlord's Mega Magic Sword\" (4✩)* [R5]"
+        ],
+        "artifacts": [
+          "1. A Day Carved from Rising Winds (4)",
+          "2. Shimenawa's Reminiscence (4)",
+          "3. Desert Pavilion Chronicle (4)",
+          "4. Gladiator's Finale (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK%",
+            "Goblet - ATK%*",
+            "Circlet - CRIT Rate / DMG",
+            "*ATK% is the generalist pick for the goblet. In most teams, the respective Elemental goblet (Pyro/Hydro/Electro/Cryo) will perform slightly better."
+          ],
+          "sub": [
+            "1. CRIT Rate / DMG",
+            "2. ATK%"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "Leveling Varka to Level 90 is the next best investment after Skill Talent levels."
+        ],
+        "tips": "Varka always wants a second Hex character, a second Anemo character and two characters of the same PHEC type (Pyro/Hydro/Electro/Cryo) on the team. Not fulfilling these conditions will make his damage plummet."
+      }
+    ]
+  }
+]
