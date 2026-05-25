@@ -1,0 +1,650 @@
+[
+  {
+    "name": "COLLEI",
+    "element": "Dendro",
+    "builds": [
+      {
+        "role": "REACTION SUPPORT\n ✩",
+        "weapons": [
+          "1. Elegy for the End (5☆)",
+          "2. Favonius Warbow (4☆)",
+          "3. Polar Star (5☆)*",
+          "4. Sacrificial Bow [R4+] (4☆)"
+        ],
+        "artifacts": [
+          "1. Deepwood Memories (4)",
+          "2. Noblesse Oblige (4)",
+          "3. Tenacity of the Millelith (4)*",
+          "4. Instructor (4)",
+          "5. Gilded Dreams (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / ATK% / Elemental Mastery",
+            "Goblet - Dendro DMG / Elemental Mastery*",
+            "Circlet - Crit Rate / DMG / Elemental Mastery*",
+            "**Prioritize Energy Recharge if her Energy Requirements are not met."
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. Crit Rate / DMG",
+            "3. ATK% / Elemental Mastery"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill"
+        ],
+        "tips": "Typical Collei Rotation: \nSkill > Burst > Swap\nRotation with Polar Star:\nN1 > tap Charged Attack > Skill > Burst > Swap\n\n"
+      }
+    ]
+  },
+  {
+    "name": "YAOYAO",
+    "element": "Dendro",
+    "builds": [
+      {
+        "role": "HEAL SUPPORT\n ✩",
+        "weapons": [
+          "1. Favonius Lance (4☆)*",
+          "2. Dialogues of the Desert Sages (4✩)",
+          "3. Black Tassel (3☆)",
+          "≈ Rightful Reward (4☆)*",
+          "4. Moonpiercer (4☆)",
+          "5. Kitain Cross Spear (4☆)*"
+        ],
+        "artifacts": [
+          "1. Deepwood Memories (4)*",
+          "2. Tenacity of the Millelith (4)*",
+          "3. Instructor (4)*",
+          "4. Ocean-Hued Clam (4)*",
+          "5. Maiden Beloved (4)",
+          "6. +15% Healing Bonus set (2) / +20% HP set (2) / Emblem of Severed Fate (2) [Choose Two]",
+          "7. Flower of Paradise Lost (4)*",
+          "8. Gilded Dreams (4)*",
+          "9. 80 EM (2) + 80 EM (2)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - HP% / Energy Recharge%",
+            "Goblet - HP%",
+            "Circlet - Healing Bonus%"
+          ],
+          "sub": [
+            "1. Energy Recharge% until requirement is met",
+            "2. HP%",
+            "3. Crit Rate*",
+            "4. Flat HP",
+            "*Try to build some Crit Rate through substats if using Favonius Lance. Crit Rate is not important on other weapons."
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill",
+          "*Prioritize her Elemental Skill if you do not spend time on-field with Yaoyao after using her Burst."
+        ],
+        "tips": "The additional Yueguis summoned by the Burst are removed when Yaoyao leaves the field.\n\nIf using Favonius Lance, you can perform Skill followed by two Normal Attacks in order to trigger the passive. "
+      }
+    ]
+  },
+  {
+    "name": "KAVEH",
+    "element": "Dendro",
+    "builds": [
+      {
+        "role": "BLOOM / BURGEON DRIVER ✩",
+        "weapons": [
+          "1. Flame-Forged Insight [R5] (4☆)",
+          "≈ Favonius Greatsword (4☆)",
+          "2. Sacrificial Greatsword (4☆)",
+          "3. Mailed Flower [R5] (4☆)",
+          "4. Wolf's Gravestone (5☆)*",
+          "≈ Song of Broken Pines (5☆)*",
+          "5. Makhaira Aquamarine (4☆)",
+          "≈ Katsuragikiri Nagamasa (4☆)",
+          "6. Skyward Pride (5☆)",
+          "≈ Forest Regalia (4☆)",
+          "≈ Rainslasher (4☆)"
+        ],
+        "artifacts": [
+          "1. Deepwood Memories (4)*",
+          "2. Ocean Hued Clam (4)*",
+          "3. Flower of Paradise Lost (4)*",
+          "4. Instructor (4)",
+          "5. Gilded Dreams (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / Elemental Mastery",
+            "Goblet - Elemental Mastery",
+            "Circlet - Elemental Mastery / Crit Rate*"
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. Elemental Mastery",
+            "3. Crit Rate*"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Normal Attack",
+          "3. Skill"
+        ],
+        "tips": "Kaveh's best combo is N3D, which is 3 Normal Attacks canceled at the end with a Dash. "
+      }
+    ]
+  },
+  {
+    "name": "KIRARA",
+    "element": "Dendro",
+    "builds": [
+      {
+        "role": "SHIELD SUPPORT\n ✩",
+        "weapons": [
+          "1. Key of Khaj-Nisut (5✩)",
+          "2. Sapwood Blade (4✩)*",
+          "3. The Dockhand's Assistant (4✩)",
+          "4. Favonius Sword (4✩)*",
+          "5. Freedom-Sworn (5✩)*",
+          "6. Sacrificial Sword (4✩)"
+        ],
+        "artifacts": [
+          "1. Instructor (4)*",
+          "2. Deepwood Memories (4)*",
+          "3. Noblesse Oblige (4)",
+          "≈ Tenacity of the Millelith (4)*",
+          "4. Tenacity of the Millelith (2) + Vourukasha's Glow (2)"
+        ],
+        "stats": {
+          "main": [
+            "Sands: HP% / Energy Recharge%",
+            "Goblet: HP%",
+            "Circlet: HP% / Crit Rate*"
+          ],
+          "sub": [
+            "1. Energy Recharge%*",
+            "2. HP%",
+            "3. Crit Rate*",
+            "4. Flat HP",
+            "*Prioritize Energy Recharge until requirement is met"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "ABILITY TIPS"
+      }
+    ]
+  },
+  {
+    "name": "TRAVELER",
+    "element": "Dendro",
+    "builds": [
+      {
+        "role": "REACTION SUPPORT\n ✩",
+        "weapons": [
+          "1. Freedom-Sworn (5☆)",
+          "2. Favonius Sword (4☆)",
+          "3. Sacrificial Sword (4☆)*",
+          "4. Sapwood Blade (4☆)"
+        ],
+        "artifacts": [
+          "1. Deepwood Memories (4)",
+          "2. Noblesse Oblige (4)*",
+          "3. Instructor (4)",
+          "4. Gilded Dreams (4)",
+          "5. The Exile (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / ATK% / Elemental Mastery",
+            "Goblet - Dendro DMG / Elemental Mastery*",
+            "Circlet - Crit Rate / Crit DMG / Elemental Mastery*",
+            "**Prioritize Energy Recharge if their Energy Requirements are not met yet."
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. Crit Rate / DMG",
+            "3. ATK%",
+            "≈ Elemental Mastery"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill",
+          "**Not priority investment"
+        ],
+        "tips": "ABILITY TIPS"
+      }
+    ]
+  },
+  {
+    "name": "TIGHNARI",
+    "element": "Dendro",
+    "builds": [
+      {
+        "role": "QUICK SWAP DPS\n ✩",
+        "weapons": [
+          "1. Hunter's Path (5☆)",
+          "2. Astral Vulture's Crimson Plumage (5☆)",
+          "≈ Aqua Simulacra (5☆)",
+          "≈ Polar Star (5☆)",
+          "≈ The First Great Magic (5☆)*",
+          "3. Skyward Harp (5☆)",
+          "≈ Thundering Pulse (5☆)",
+          "4. Elegy for the End (5☆)*",
+          "≈ Amos' Bow (5☆)",
+          "≈ Fading Twilight [R5] (4☆)*",
+          "5.  Scion of the Blazing Sun (4☆)*",
+          "≈ The Viridescent Hunt (4☆)",
+          "6. Slingshot (3☆)* [R5]",
+          "≈ Range Gauge (4☆)*",
+          "≈ Windblume Ode [R5] (4☆)",
+          "≈ Song of Stillness (4☆)*",
+          "7. Prototype Crescent (4☆)*"
+        ],
+        "artifacts": [
+          "1. Wanderer's Troupe (4)",
+          "≈ Gilded Dreams (4)*",
+          "2. Emblem of Severed Fate (4)",
+          "3. Deepwood Memories (2) / +80 EM set (2) / +18% ATK set (2) [Choose Two]",
+          "4. Deepwood Memories (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK% / Elemental Mastery / Energy Recharge*",
+            "Goblet - Dendro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. Elemental Mastery",
+            "≈ ATK%",
+            "3. Energy Recharge*"
+          ]
+        },
+        "talent_priority": [
+          "1. Normal Attack",
+          "2. Burst",
+          "3. Skill"
+        ],
+        "tips": "There are three recommended combos that Tighnari can perform:\n1. Skill -> Charged Attack -> Burst -> Charged Attack (x2) - This is the most mechanically difficult combo. However, this combo allows Tighnari to have both his Burst affected by A1 and funnel particles from his Skill to his next Burst.\n2. Skill -> Charged Attack (x3) -> Burst - Allows Tighnari's Burst to benefit from A1. However, this combo doesn't allow Tighnari to funnel particles from his Skill into his next Burst.\n3. Skill -> Burst -> Charged Attack (x3) - Simplest combo to use, and generally weakest combo though it allows prefunneling. His Burst does not benefit from A1 in this combo. It is recommended at C4 due to the EM buff.\n"
+      }
+    ]
+  },
+  {
+    "name": "NAHIDA",
+    "element": "Dendro",
+    "builds": [
+      {
+        "role": "BUFF SUPPORT & DAMAGE ✩",
+        "weapons": [
+          "1. A Thousand Floating Dreams (5☆)",
+          "≈ Sunny Morning Sleep-In (5✩)",
+          "2. Kagura's Verity (5☆)",
+          "3. Sacrificial Fragments (4☆)",
+          "≈ Etherlight Spindlelute (4☆) [R5]",
+          "4. Wandering Evenstar (4☆)*",
+          "5. The Widsith (4☆)*",
+          "≈ Sacrificial Jade (4☆)",
+          "6. Skyward Atlas (5☆)*",
+          "≈ Lost Prayer to Sacred Winds (5☆)*",
+          "≈ Memory of Dust (5☆)*",
+          "≈ Solar Pearl (4☆)*",
+          "7. Favonius Codex (4☆)*",
+          "8. Mappa Mare (4☆)",
+          "≈ Magic Guide (3☆)",
+          "≈ Hakushin Ring (4☆)*",
+          "9. Thrilling Tales of Dragon Slayers (3☆)*",
+          "10. Prototype Amber (4☆)"
+        ],
+        "artifacts": [
+          "1. Deepwood Memories (4)*",
+          "2. Gilded Dreams (4)",
+          "≈ Golden Troupe (4)",
+          "3. +80 EM set (2) / +80 EM set (2) / Deepwood Memories (2) [Choose Two]",
+          "4. Tenacity of the Millelith (4)*",
+          "5. Flower of Paradise Lost (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery",
+            "Goblet - Elemental Mastery / Dendro DMG",
+            "Circlet - Elemental Mastery / Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge (Until Requirement)",
+            "2. Crit Rate / Crit DMG",
+            "≈ Elemental Mastery",
+            "3. ATK%"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst",
+          "3. Normal Attack"
+        ],
+        "tips": "ABILITY TIPS"
+      }
+    ]
+  },
+  {
+    "name": "ALHAITHAM",
+    "element": "Dendro",
+    "builds": [
+      {
+        "role": "SPREAD DPS \n✩",
+        "weapons": [
+          "1. Light of Foliar Incision (5☆)*",
+          "2. Uraku Misugiri (5☆)*",
+          "≈ Primordial Jade Cutter (5☆)",
+          "3. Mistsplitter Reforged (5☆)",
+          "≈ Haran Geppaku Futsu (5☆)",
+          "4. Freedom-Sworn (5☆)",
+          "5. Wolf-Fang (4☆)*",
+          "6. Toukabou Shigure (4☆)*",
+          "7. The Black Sword (4☆)",
+          "8. Summit Shaper (5☆)",
+          "≈ Iron Sting (4☆)",
+          "≈ Blackcliff Longsword (4☆)",
+          "≈ Harbinger of Dawn (3☆)*",
+          "9. Xiphos' Moonlight (4☆)*",
+          "≈ Festering Desire (4☆)",
+          "10. Skyward Blade (5☆)"
+        ],
+        "artifacts": [
+          "1. Gilded Dreams (4)*",
+          "2. Deepwood Memories (2) / Emblem of Severed Fate (2) / +80 EM set (2)",
+          "[Choose Two]*",
+          "3. Deepwood Memories (4)",
+          "Conditional (See Notes):",
+          "Marechaussee Hunter (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery / ATK%",
+            "Goblet - Dendro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge* (Until Requirement)",
+            "2. Crit Rate / DMG",
+            "3. Elemental Mastery**",
+            "4. ATK%",
+            "* Certain quicken teams can run little to no Energy Recharge and simply burst every other rotation without a dps loss",
+            "** If you're running under 200 Elemental Mastery this substat has priority over Crit"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Normal Attack",
+          "≈ Burst"
+        ],
+        "tips": "Basic Rotations:\n\nBurst up = Q > E > N2D + 2N3D + N1C + 2N2C\n\nBurst down = E > N1C + 5N2C + N1"
+      }
+    ]
+  },
+  {
+    "name": "BAIZHU",
+    "element": "Dendro",
+    "builds": [
+      {
+        "role": "HEAL SUPPORT\n ✩",
+        "weapons": [
+          "1. Jadefall's Splendor (5☆)",
+          "2. Prototype Amber (4☆) [R5]*",
+          "3. Favonius Codex (4☆)*",
+          "4. Hakushin Ring (4☆)*",
+          "5. Thrilling Tales of Dragon Slayers (3☆)",
+          "6. A Thousand Floating Dreams (5☆)*"
+        ],
+        "artifacts": [
+          "1. Deepwood Memories (4)*",
+          "2. Ocean-Hued Clam (4)",
+          "3. Instructor (4)*",
+          "4. Noblesse Oblige (4)*",
+          "5. Tenacity of the Millelith (2) / Vourukasha's Glow (2) / Emblem of Severed Fate (2) [Choose Two]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - HP% / Energy Recharge",
+            "Goblet - HP%",
+            "Circlet - HP% / Healing Bonus*",
+            "*Check notes"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. HP%",
+            "3. Flat HP",
+            "4. Crit Rate*",
+            "*Prioritize Energy Recharge until requirement is met. Crit Rate is only recommended when using Favonius Codex."
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill"
+        ],
+        "tips": "Baizhu's Elemental Skill has a 2-3 second delay between cast time and heal received, keep this in mind when swapping to low HP allies after Baizhu's rotation.\n"
+      }
+    ]
+  },
+  {
+    "name": "EMILIE",
+    "element": "Dendro",
+    "builds": [
+      {
+        "role": "OFF-FIELD DPS\n ✩",
+        "weapons": [
+          "1. Lumidouce Elegy (5☆)",
+          "2. Calamity Queller (5☆)",
+          "3. Symphonist of Scents (5☆)*",
+          "≈ Staff of Homa (5☆)",
+          "4. Engulfing Lightning (5☆)",
+          "≈ Staff of the Scarlet Sands (5☆)",
+          "5. Primordial Jade Winged-Spear (5☆)",
+          "≈ Crimson Moon's Semblance (5☆)",
+          "6. Deathmatch (4☆)*",
+          "7. Skyward Spine (5☆)",
+          "≈ Tamayuratei no Ohanashi (4☆)",
+          "8. Missive Windspear (4☆) [R5]",
+          "≈ Lithic Spear (4☆)",
+          "≈ Prospector's Drill (4☆)",
+          "9. Favonius Lance (4☆)",
+          "10. Kitain Cross Spear (4☆)"
+        ],
+        "artifacts": [
+          "1. Unfinished Reverie (4)",
+          "2. Deepwood Memories (4)*",
+          "3. Golden Troupe (4)",
+          "4. Deepwood Memories (2) / Golden Troupe (2) / +18% ATK set (2) [Choose Two]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK%",
+            "Goblet - Dendro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. ATK%",
+            "3. ER%*"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "ABILITY TIPS"
+      }
+    ]
+  },
+  {
+    "name": "KINICH",
+    "element": "Dendro",
+    "builds": [
+      {
+        "role": "DPS\n ✩",
+        "weapons": [
+          "1. Fang of the Mountain King (5☆)",
+          "2. Gest of the Mighty Wolf (5☆)",
+          "2. A Thousand Blazing Suns (5☆)",
+          "≈ Beacon of the Reed Sea (5☆)",
+          "3. Serpent Spine (4☆)*",
+          "4. Verdict (5☆)",
+          "5. Earth Shaker (4☆) [R5]*",
+          "≈ Wolf's Gravestone (5☆)*",
+          "≈ Redhorn Stonethresher (5☆)"
+        ],
+        "artifacts": [
+          "1. Obsidian Codex (4)*",
+          "≈ Unfinished Reverie (4)*",
+          "2. Golden Troupe (4)",
+          "3. Deepwood Memories (2) / +18 ATK% set (2) / Golden Troupe (2) [Choose Two]",
+          "Conditional (See Notes):",
+          "Marechaussee Hunter (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK%",
+            "Goblet - Dendro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. ATK%",
+            "3. Energy Recharge"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "When paired with Xiangling, spin counter clockwise so her Pyronado can hit opponents more frequently."
+      }
+    ]
+  },
+  {
+    "name": "LAUMA",
+    "element": "Dendro",
+    "builds": [
+      {
+        "role": "BUFF SUPPORT (HIGH-ENERGY REQUIREMENT) ✩",
+        "weapons": [
+          "1. Nightweaver's Looking Glass (5☆)",
+          "2. A Thousand Floating Dreams (5☆)*",
+          "≈ Etherlight Spindlelute (4☆) [R5]*",
+          "3. Starcaller's Watch (5☆)",
+          "≈ Sunny Morning Sleep-In (5☆)*",
+          "≈ Fruit of Fulfilment (4☆) [R5]",
+          "≈ Blackmarrow Lantern (4☆)* [R5]"
+        ],
+        "artifacts": [
+          "1. Silken Moon's Serenade (4)",
+          "≈ Deepwood Memories (4)*",
+          "2. Night of the Sky's Unveiling (4)*",
+          "3. Gilded Dreams (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / Elemental Mastery",
+            "Goblet - Elemental Mastery",
+            "Circlet - Elemental Mastery"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. Elemental Mastery",
+            "3. Crit Rate / DMG",
+            "* Prioritize Energy Recharge first until you meet the requirement"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "≈ Skill"
+        ],
+        "tips": "Typically Lauma's Burst will buff 36 instances of bloom-related damage, this is per target so in AoE it will deplete a lot faster.\n\nLauma's hold Elemental Skill will consume Verdant Dew stacks (obtained by triggering Lunar-Bloom reaction every 2.5s) - It is recommended to have 2-3 stacks before casting hold Elemental Skill, else tap Elemental Skill to conserve Verdant Dew stacks"
+      },
+      {
+        "role": "BUFF SUPPORT\n(LOW-ENERGY REQUIREMENT) ✩",
+        "weapons": [
+          "1. Nightweaver's Looking Glass (5☆)",
+          "2. A Thousand Floating Dreams (5☆)*",
+          "≈ Reliquary of Truth (5☆)*",
+          "3. Starcaller's Watch (5☆)",
+          "≈ Sunny Morning Sleep-In (5☆)*",
+          "4. Sacrificial Fragments (4☆)*",
+          "5. Surf's Up (5☆)*",
+          "≈ Wandering Evenstar (4☆)*",
+          "≈ Etherlight Spindlelute (4☆) [R5]",
+          "6. Blackmarrow Lantern (4☆) [R5]"
+        ],
+        "artifacts": [
+          "1. Silken Moon's Serenade (4)",
+          "≈ Deepwood Memories (4)*",
+          "2. Night of the Sky's Unveiling (4)*",
+          "3. Gilded Dreams (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery",
+            "Goblet - Elemental Mastery",
+            "Circlet - Elemental Mastery / Crit Rate* / DMG*",
+            "*Crit Rate and Crit DMG only affects LAUMA'S PERSONAL damage, this does not increase her bloom crit buffs"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. Elemental Mastery",
+            "3. Crit Rate / DMG",
+            "* Prioritize Energy Recharge first until you meet the requirement"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "≈ Skill"
+        ],
+        "tips": "Typically Lauma's Burst will buff 36 instances of bloom-related damage, this is per target so in AoE it will deplete a lot faster.\n\nLauma's hold Elemental Skill will consume Verdant Dew stacks (obtained by triggering Lunar-Bloom reaction every 2.5s) - It is recommended to have 2-3 stacks before casting hold Elemental Skill, else tap Elemental Skill to conserve Verdant Dew stacks"
+      }
+    ]
+  },
+  {
+    "name": "NEFER",
+    "element": "Dendro",
+    "builds": [
+      {
+        "role": "DPS\n ✩",
+        "weapons": [
+          "1. Reliquary of Truth (5☆)",
+          "2. Nocturne's Curtain Call (5☆)",
+          "3. Nightweaver's Looking Glass (5☆)",
+          "4. Sunny Morning Sleep-In (5☆)*",
+          "≈ Starcaller's Watch (5☆)",
+          "5. Blackmarrow Lantern (4☆) [R5]",
+          "≈ A Thousand Floating Dreams (5☆)",
+          "≈ Tome of the Eternal Flow (5☆)",
+          "≈ Surf's Up! (5☆)",
+          "≈ Dawning Frost (4☆)*",
+          "6. The Widsith (4☆)*"
+        ],
+        "artifacts": [
+          "1. Night of the Sky's Unveiling (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery",
+            "Goblet - Elemental Mastery",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. Elemental Mastery"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "Seeds of Deceit do not deal damage, and they cannot enable Hyperbloom or Burgeon. They are strictly to enhance Nefer's Elemental Burst and add Lunar% buffs to her Elemental Skill.\n"
+      }
+    ]
+  }
+]

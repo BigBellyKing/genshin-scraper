@@ -1,0 +1,1416 @@
+[
+  {
+    "name": "FISCHL",
+    "element": "Electro",
+    "builds": [
+      {
+        "role": "OFF-FIELD DPS \n✩",
+        "weapons": [
+          "1. The Daybreak Chronicles (5✩)",
+          "2. Polar Star (5✩)*",
+          "3. Aqua Simulacra (5✩)",
+          "≈ Thundering Pulse (5✩)",
+          "≈ Hunter's Path (5✩)",
+          "4. The First Great Magic (5✩)",
+          "≈ Skyward Harp (5✩)",
+          "5. Astral Vulture's Crimson Plumage (5✩)",
+          "≈ Song of Stillness (4✩) [R5]*",
+          "≈ Chain Breaker (4✩) [R5]",
+          "≈ Amos' Bow (5✩)",
+          "6. Alley Hunter (4✩)*",
+          "7. The Viridescent Hunt (4✩)",
+          "≈ The Stringless (4✩)*",
+          "≈ Fading Twilight (4✩) [R5]"
+        ],
+        "artifacts": [
+          "1. Golden Troupe (4)",
+          "2. A Day Carved From Rising Winds (4)",
+          "3. Golden Troupe (2) + Thundering Fury (2)",
+          "≈ Thundersoother (4)*",
+          "4. +18% ATK set (2) / Thundering Fury (2) / Golden Troupe (2) [Choose Two]",
+          "5. Tenacity of the Millelith (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK%",
+            "Goblet - Electro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. Crit Rate / DMG",
+            "3. ATK%",
+            "4. Elemental Mastery",
+            "* Prioritize Energy Recharge first until you meet the requirement"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "Both Fischl's Skill and Burst summon Oz, therefore it is best to alternate between them to have high uptime."
+      },
+      {
+        "role": "OFF-FIELD AGGRAVATE DPS \n✩",
+        "weapons": [
+          "1. The Daybreak Chronicles (5✩)",
+          "2. Polar Star (5✩)*",
+          "3. Hunter's Path (5✩)",
+          "≈ Aqua Simulacra (5✩)",
+          "4. The First Great Magic (5✩)",
+          "5. Skyward Harp (5✩)",
+          "≈ Thundering Pulse (5✩)",
+          "6. Astral Vulture's Crimson Plumage (5✩)",
+          "7. The Stringless (4✩)*",
+          "8. Song of Stillness (4✩) [R5]*",
+          "≈ The Viridescent Hunt (4✩)",
+          "≈ Chain Breaker (4✩) [R5]",
+          "≈ Windblume Ode (4✩) [R5]",
+          "9. Alley Hunter (4✩)*",
+          "≈ Fading Twilight (4✩) [R5]"
+        ],
+        "artifacts": [
+          "1. Golden Troupe (4)",
+          "2. A Day Carved From Rising Winds (4)",
+          "3. +18% ATK set (2) / +80 EM set (2) / Thundering Fury (2) / Golden Troupe (2) [Choose Two]",
+          "≈ Gilded Dreams (4)",
+          "≈ Thundering Fury (4)",
+          "4. Thundersoother (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK% / Elemental Mastery",
+            "Goblet - Electro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. Crit Rate / DMG",
+            "3. ATK%",
+            "≈ Elemental Mastery",
+            "* Prioritize Energy Recharge first until you meet the requirement"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst",
+          "*It is recommended to level Fischl to level 90"
+        ],
+        "tips": "Both Fischl's Skill and Burst summon Oz, therefore it is best to alternate between them to have high uptime.\n\nA big portion of Aggravate Fischl's damage comes from her Ascension 4 passive. An on field unit that frequently triggers Electro related reactions helps maximize her damage."
+      }
+    ]
+  },
+  {
+    "name": "BEIDOU",
+    "element": "Electro",
+    "builds": [
+      {
+        "role": "OFF-FIELD AGGRAVATE DPS",
+        "weapons": [
+          "1. Beacon of the Reed Sea (5✩)",
+          "2. Verdict (5✩)",
+          "≈  Wolf's Gravestone (5✩)",
+          "≈ Serpent Spine (4✩)*",
+          "3. A Thousand Blazing Suns (5✩)",
+          "≈ Redhorn Stonethresher (5✩)",
+          "4. Tidal Shadow (4✩) [R5]*",
+          "≈ The Unforged (5✩)",
+          "5. Fang of the Mountain King (5✩)",
+          "6. Akuoumaru (4✩)*",
+          "≈ \"Ultimate Overlord's Mega Magic Sword\" (4✩) [R5]",
+          "≈ Luxurious Sea-Lord (4✩) [R5]",
+          "≈ Skyward Pride (5✩)*",
+          "7. Lithic Blade (4✩)*"
+        ],
+        "artifacts": [
+          "1. Emblem of Severed Fate (4)",
+          "2. Noblesse Oblige (2) / Thundering Fury (2) / +18% ATK set (2) / Emblem of Severed Fate (2) [Choose Two]",
+          "3. Scroll of the Hero of Cinder City (4)*",
+          "≈ Noblesse Oblige (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK% / Energy Recharge",
+            "Goblet - Electro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. Crit Rate / DMG",
+            "3. ATK%",
+            "4. Elemental Mastery**",
+            "* Prioritize Energy Recharge first until you can burst off cooldown",
+            "** Elemental Mastery is a desirable sub stat in aggravate teams"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill"
+        ],
+        "tips": "ABILITY TIPS"
+      },
+      {
+        "role": "OFF-FIELD DPS ✩",
+        "weapons": [
+          "1. A Thousand Blazing Suns (5✩)",
+          "2. Wolf's Gravestone (5✩)",
+          "≈ Fang of the Mountain King (5✩)",
+          "≈ Redhorn Stonethresher (5✩)",
+          "3. The Unforged (5✩)",
+          "4. Beacon of the Reed Sea (5✩)",
+          "≈ Verdict (5✩)",
+          "5. Tidal Shadow (4✩) [R5]*",
+          "≈ Serpent Spine (4✩)*",
+          "6. Akuoumaru (4✩)*",
+          "≈ \"Ultimate Overlord's Mega Magic Sword\" (4✩) [R5]",
+          "7. Lithic Blade (4✩)*",
+          "≈ Luxurious Sea-Lord  (4✩) [R5]",
+          "≈ Skyward Pride (5✩)*"
+        ],
+        "artifacts": [
+          "1. Emblem of Severed Fate (4)",
+          "2. Noblesse Oblige (2) / Thundering Fury (2) / +18% ATK set (2) / Emblem of Severed Fate (2) [Choose Two]",
+          "3. Scroll of the Hero of Cinder City (4)*",
+          "≈ Noblesse Oblige (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK% / Energy Recharge",
+            "Goblet - Electro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. Crit Rate / DMG",
+            "3. ATK%",
+            "4. Elemental Mastery**",
+            "* Prioritize Energy Recharge first until you can burst off cooldown",
+            "** Elemental Mastery is a desirable sub stat in aggravate teams"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill"
+        ],
+        "tips": "ABILITY TIPS"
+      }
+    ]
+  },
+  {
+    "name": "LISA",
+    "element": "Electro",
+    "builds": [
+      {
+        "role": "AGGRAVATE DPS\n✩",
+        "weapons": [
+          "1. Reliquary of Truth (5✩)",
+          "2. Vivid Notions (5✩)*",
+          "3. Kagura's Verity (5✩)",
+          "4. Lost Prayer to the Sacred Winds (5✩)",
+          "5. Tome of the Eternal Flow (5✩)",
+          "≈ Surf's Up (5✩)",
+          "6. A Thousand Floating Dreams (5✩)",
+          "≈ Cashflow Supervision (5✩)",
+          "7. The Widsith (4✩)*",
+          "8. Solar Pearl (4✩)",
+          "≈ Sacrificial Jade (4✩)",
+          "9. Flowing Purity (4✩)*",
+          "10. Mappa Mare (4✩)*"
+        ],
+        "artifacts": [
+          "1. Thundering Fury (4)",
+          "2. Gilded Dreams (4)",
+          "3. Thundersoother (4)",
+          "4. Thundering Fury (2) +18% ATK set (2) +80 EM set (2) [Choose Two]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK% / Elemental Mastery",
+            "Goblet - Electro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. ATK%",
+            "≈ Elemental Mastery",
+            "3. Energy Recharge"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "≈ Skill",
+          "2. Normal Attack"
+        ],
+        "tips": "Learning Blocks for On-field Lisa rotations: \n\nAim to use Lisa's hE and Q every rotation, and consistently weave together NAs with her tEs or CAs.\n\nAs an example: tE Q tE C N1 tE C tE …(Swap to teammates)… tE h3E 2[N2C]\n\n*N/NA = Normal Attack, C/CA = Charged Attack, E = Elemental Skill (tE = Tap, hE = Hold), Q = Burst\n"
+      },
+      {
+        "role": "OFF-FIELD DPS & SUPPORT\n✩",
+        "weapons": [
+          "1. Reliquary of Truth (5✩)",
+          "2. Vivid Notions (5✩)",
+          "3. Kagura's Verity (5✩)",
+          "≈ A Thousand Floating Dreams (5✩)*",
+          "≈ Lost Prayer to the Sacred Winds (5✩)",
+          "4. Tome of the Eternal Flow (5✩)",
+          "≈ Surf's Up (5✩)",
+          "5. The Widsith (4✩)",
+          "6. Sacrificial Jade (4✩)",
+          "≈ Solar Pearl (4✩)",
+          "7. Flowing Purity (4✩)*",
+          "≈ Oathsworn Eye (4✩)",
+          "8. Hakushin Ring (4✩)*",
+          "9. Mappa Mare (4✩)*",
+          "10. Favonius Codex (4✩)*",
+          "≈ Thrilling Tales of Dragon Slayers (3✩)*"
+        ],
+        "artifacts": [
+          "1. Emblem of Severed Fate (4)",
+          "2. Scroll of the Hero of Cinder City (4)*",
+          "3. Noblesse Oblige (4)*",
+          "4. Gilded Dreams (4)**",
+          "5. Thundersoother (4)",
+          "6. Thundering Fury (2) 20% ER set (2) +18% ATK set (2) Noblesse Oblige (2) [Choose Two]",
+          "**Only used in Quicken teams"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / ATK% / Elemental Mastery**",
+            "Goblet - Electro DMG",
+            "Circlet - Crit Rate / DMG",
+            "**Only used in Quicken teams"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. Crit Rate / DMG",
+            "3. ATK%",
+            "4. Elemental Mastery"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill",
+          "3. Normal Attack"
+        ],
+        "tips": "Casting Lisa's Hold Elemental Skill does not require 4 entire seconds of charging to connect, as long as the indicator aligns with the ring, she can release for full damage."
+      },
+      {
+        "role": "REACTION DPS",
+        "weapons": [
+          "1. Etherlight Spindlelute (4✩)*",
+          "≈ Fruit of Fulfillment (4✩)*",
+          "≈ Starcaller's Watch (5✩)",
+          "2. A Thousand Floating Dreams (5✩)",
+          "3. Sacrificial Fragments (4✩)",
+          "≈ Wandering Evenstar (4✩)",
+          "≈ Favonius Codex (4✩)",
+          "4. Magic Guide (3✩)",
+          "5. Mappa Mare (4✩)",
+          "6. Hakushin Ring (4✩)",
+          "7. Thrilling Tales of Dragon Slayers (3✩)"
+        ],
+        "artifacts": [
+          "1. Flower of Paradise Lost (4)*",
+          "2. Gilded Dreams (4)",
+          "3. +80 EM set (2) Emblem of Severed Fate (2) +80 EM set (2)  [Choose Two]",
+          "4. Thundering Fury (4)",
+          "5. Instructor (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery / Energy Recharge",
+            "Goblet - Elemental Mastery",
+            "Circlet - Elemental Mastery"
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. Elemental Mastery",
+            "3. ATK%",
+            "4. Crit Rate / DMG"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill",
+          "3. Normal Attack",
+          "Reaction DPS Lisa's Talent Levels are not essential."
+        ],
+        "tips": "Lisa's Burst will not have full uptime when off-field due to its cooldown, sometimes on-fielding Lisa is advised to fill in downtime and trigger relevant reactions."
+      }
+    ]
+  },
+  {
+    "name": "RAZOR",
+    "element": "Electro",
+    "builds": [
+      {
+        "role": "DPS\n ✩",
+        "weapons": [
+          "1. Gest of the Mighty Wolf (5✩)",
+          "2. A Thousand Blazing Suns (5✩)",
+          "3. Beacon of the Reed Sea (5✩)",
+          "≈ Verdict (5✩)",
+          "≈ Redhorn Stonethresher (5✩)",
+          "4. Fang of the Mountain King (5✩)",
+          "5. Song of Broken Pines (5✩)",
+          "6. Talking Stick (4✩)*",
+          "≈ Serpent Spine (4✩)",
+          "7. Skyward Pride (5✩)*",
+          "≈ Wolf's Gravestone (5✩)",
+          "8. The Unforged (5✩)",
+          "9. Tidal Shadow [R5] (4✩)*",
+          "≈ Blackcliff Slasher (4✩)",
+          "≈ Akuoumaru (4✩)",
+          "10. Earth Shaker [R5] (4✩)*",
+          "11. Prototype Archaic (4✩)",
+          "≈ Ultimate Overlord's Mega Magic Sword (4✩) [R5]"
+        ],
+        "artifacts": [
+          "1. A Day Carved from Rising Winds (4)",
+          "2. Echoes of an Offering (4)",
+          "≈ Emblem of Severed Fate (4)",
+          "≈ Thundering Fury (4)",
+          "≈ Gladiator's Finale (4)",
+          "3. +18% ATK set (2) Thundering Fury (2)",
+          "Conditional (See Notes):",
+          "Marechaussee Hunter (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK% / Energy Recharge",
+            "Goblet - Electro DMG%",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. Crit Rate / DMG",
+            "3. ATK%",
+            "*Prioritize Energy Recharge first until requirements are met"
+          ]
+        },
+        "talent_priority": [
+          "1. Normal Attack",
+          "2. Skill",
+          "3. Burst",
+          "* All of Razor's talents are worth leveling"
+        ],
+        "tips": "Razor tends to prefer his Tap Skill over his Hold Skill for its cooldown advantage.\n\nRazor's Burst resets the cooldown of his Elemental Skill, as such tE > Q > tE is the standard opener for Razor's combos."
+      },
+      {
+        "role": "HYPERBLOOM / REACTION DPS",
+        "weapons": [
+          "1. Mailed Flower [R5] (4✩)",
+          "≈ Makhaira Aquamarine (4✩)",
+          "≈ Flame-Forged Insight [R5] (4✩)",
+          "2. Rainslasher (4✩)",
+          "≈ Bloodtainted Greatsword (3✩)",
+          "3. Favonius Greatsword (4✩)*",
+          "4. Forest Regalia (4✩)"
+        ],
+        "artifacts": [
+          "1. Gilded Dreams (4)",
+          "≈ Flower of Paradise Lost (4)",
+          "2. +80 EM set (2) +80 EM set (2)",
+          "3. Thundering Fury (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery",
+            "Goblet  - Elemental Mastery",
+            "Circlet  - Elemental Mastery"
+          ],
+          "sub": [
+            "1. Elemental Mastery",
+            "2. Energy Recharge",
+            "3. Crit Rate% [Only for Favonius Greatsword]"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Normal Attack",
+          "3. Skill",
+          "*EM Razor's Talent Levels are not a necessity."
+        ],
+        "tips": "Razor tends to prefer his Tap Skill over his Hold Skill for its cooldown advantage.\n\nRazor's Burst resets the cooldown of his Elemental Skill, as such tE > Q > tE is the standard opener for Razor's combos."
+      }
+    ]
+  },
+  {
+    "name": "KUJOU SARA",
+    "element": "Electro",
+    "builds": [
+      {
+        "role": "BUFF SUPPORT & DAMAGE\n✩",
+        "weapons": [
+          "1. Skyward Harp (5✩)*",
+          "2. Polar Star (5✩)*",
+          "≈ Elegy for the End (5✩)*",
+          "3. The First Great Magic (5✩)",
+          "4. Aqua Simulacra (5✩)",
+          "≈ Hunter's Path (5✩)",
+          "5. Thundering Pulse (5✩)",
+          "6. Amos' Bow (5✩)",
+          "7. Fading Twilight (4✩)",
+          "≈ Mouun's Moon (4✩)*",
+          "≈ Alley Hunter (4✩)*",
+          "≈ The Viridescent Hunt (4✩)",
+          "≈ Scion of the Blazing Sun (4✩)",
+          "8. Sacrificial Bow (4✩)",
+          "≈ Chain Breaker (4✩)",
+          "9. Favonius Warbow (4✩)*"
+        ],
+        "artifacts": [
+          "1. Emblem of Severed Fate (4)",
+          "2. Noblesse Oblige (4)*",
+          "3. Noblesse Oblige (2) +18% ATK set (2) Thundering Fury (2) Emblem of Severed Fate (2) [Choose Two]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / ATK%",
+            "Goblet - Electro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. Crit Rate / DMG",
+            "3. ATK%",
+            "*Prioritize Energy Recharge first until requirements are met"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "For her Elemental Skill to generate particles, you need to perform a Charged Shot to place a Crowfeather after casting her Elemental Skill. If the Crowfeather explosion hits an enemy, it generates 3 particles.\n\nCrowfeathers dropped through Sara's [C2] do NOT generate particles."
+      }
+    ]
+  },
+  {
+    "name": "KUKI SHINOBU",
+    "element": "Electro",
+    "builds": [
+      {
+        "role": "HYPERBLOOM \n✩",
+        "weapons": [
+          "1. Freedom-Sworn  (5✩)",
+          "2. Xiphos' Moonlight  (4✩)",
+          "3. Iron Sting  (4✩)",
+          "≈ Key of Khaj-Nisut (5✩)*",
+          "≈ Toukabou Shigure [R5]* (4✩)",
+          "4. Dark Iron Sword  (3✩)",
+          "≈ Sapwood Blade  (4✩)"
+        ],
+        "artifacts": [
+          "1. Flower of Paradise Lost (4)",
+          "2. Gilded Dreams (4)",
+          "3. +80 EM set (2) +80 EM set (2)",
+          "4. Thundering Fury (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery",
+            "Goblet - Elemental Mastery",
+            "Circlet - Elemental Mastery"
+          ],
+          "sub": [
+            "1. Elemental Mastery*",
+            "2. HP%",
+            "3. Energy Recharge",
+            "*Elemental Mastery is essentially your only priority"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill*",
+          "*Skill levels help with comfort but are not compulsory for a Hyperbloom build"
+        ],
+        "tips": "Aim for around 850-950+ Elemental Mastery. Depending on whether you use an Elemental Mastery weapon or not."
+      },
+      {
+        "role": "AGGRAVATE OFF-FIELD DPS",
+        "weapons": [
+          "1. Freedom-Sworn  (5✩)*",
+          "2. Primordial Jade Cutter (5✩)*",
+          "≈ Key of Khaj-Nisut  (5✩)*",
+          "3. Festering Desire  (4✩)",
+          "4. Xiphos' Moonlight  (4✩)",
+          "5. Iron Sting  (4✩)",
+          "6. Sapwood Blade  (4✩)",
+          "7. Favonius Sword  (4✩)",
+          "8. Dark Iron Sword  (3✩)"
+        ],
+        "artifacts": [
+          "1. Gilded Dreams (4)",
+          "≈Thundering Fury (2) +80 EM set (2) Noblesse Oblige (2)* [Choose Two]",
+          "2.Thundersoother (4)*",
+          "3.Thundering Fury (4)",
+          "4.Tenacity of the Millelith (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / Elemental Mastery",
+            "Goblet - Electro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. Crit Rate / DMG",
+            "3. Elemental Mastery",
+            "4. HP%"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "Aim for around 850-950+ Elemental Mastery. Depending on whether you use an Elemental Mastery weapon or not."
+      },
+      {
+        "role": "HEAL SUPPORT",
+        "weapons": [
+          "1. Favonius Sword (4✩)*",
+          "2. Freedom-Sworn (5✩)*",
+          "≈ Key of Khaj-Nisut (5✩)*",
+          "3. The Dockhand's Assistant (4✩)*",
+          "4. Iron Sting (4✩)"
+        ],
+        "artifacts": [
+          "1. Tenacity of the Millelith (4)",
+          "2. Noblesse Oblige (4)*",
+          "3. Instructor (4) / The Exile (4)*",
+          "4. Ocean-Hued Clam (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - HP%",
+            "Goblet - HP%",
+            "Circlet - Healing Bonus / HP% / Crit Rate"
+          ],
+          "sub": [
+            "1. HP%",
+            "2. Crit Rate*",
+            "3. Elemental Mastery / Flat HP",
+            "*Crit Rate is useful only when using Favonius Sword"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill"
+        ],
+        "tips": "Aim for around 850-950+ Elemental Mastery. Depending on whether you use an Elemental Mastery weapon or not."
+      }
+    ]
+  },
+  {
+    "name": "DORI",
+    "element": "Electro",
+    "builds": [
+      {
+        "role": "HEAL SUPPORT\n✩",
+        "weapons": [
+          "1. Favonius Greatsword (4✩)",
+          "2. Sacrificial Greatsword (4✩)*",
+          "3. Katsuragikiri Nagamasa (4✩)",
+          "4. Forest Regalia (4✩)"
+        ],
+        "artifacts": [
+          "1. Noblesse Oblige (4)",
+          "2. Deepwood Memories (4)*",
+          "3. Instructor (4)",
+          "4. The Exile (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / HP% / Elemental Mastery",
+            "Goblet - HP% / Elemental Mastery",
+            "Circlet - Healing Bonus / HP% / Elemental Mastery*",
+            "*A Crit Rate Circlet can be considered if running Favonius Greatsword"
+          ],
+          "sub": [
+            "1. Crit Rate*",
+            "2. Energy Recharge",
+            "3. HP%",
+            "4. Elemental Mastery",
+            "*Crit Rate is useful only when using Favonius Greatsword"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill"
+        ],
+        "tips": "It is generally advised to use 2 elemental skills per burst rotation, as this helps to alleviate her otherwise extreme Energy requirements. "
+      }
+    ]
+  },
+  {
+    "name": "SETHOS",
+    "element": "Electro",
+    "builds": [
+      {
+        "role": "NORMAL ATTACK DPS\n✩",
+        "weapons": [
+          "1. Hunter's Path (5✩)",
+          "≈ Astral Vulture's Crimson Plumage (5✩)",
+          "≈ Slingshot [R5] (3✩)"
+        ],
+        "artifacts": [
+          "1. Wanderer's Troupe (4)",
+          "≈ Desert Pavilion Chronicle (4)*",
+          "2. Gilded Dreams (4)",
+          "3. Thundering Fury (2) / +80 EM set (2) / Emblem of Severed Fate (2)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery / Energy Recharge",
+            "Goblet - Electro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. Crit Rate / DMG",
+            "3. Elemental Mastery",
+            "4. ATK%"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Normal Attack",
+          "3. Skill"
+        ],
+        "tips": "ABILITY TIPS"
+      },
+      {
+        "role": "CHARGED ATTACK DPS\n✩",
+        "weapons": [],
+        "artifacts": [
+          "1. Wanderer's Troupe (4)",
+          "2. Gilded Dreams (4)",
+          "3. Thundering Fury (2) / +80 EM set (2) / Emblem of Severed Fate (2)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery / Energy Recharge",
+            "Goblet - Electro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. Crit Rate / DMG",
+            "3. Elemental Mastery",
+            "4. ATK%"
+          ]
+        },
+        "talent_priority": [
+          "1. Normal Attack",
+          "2. Skill"
+        ],
+        "tips": "ABILITY TIPS"
+      }
+    ]
+  },
+  {
+    "name": "ORORON",
+    "element": "Electro",
+    "builds": [
+      {
+        "role": "OFF-FIELD DPS\n✩",
+        "weapons": [
+          "1. Polar Star (5✩)",
+          "≈ The First Great Magic (5✩)*",
+          "2. Thundering Pulse (5✩)",
+          "≈ Aqua Simulacra (5✩)",
+          "≈ Hunter's Path (5✩)",
+          "≈ Skyward Harp (5✩)",
+          "3. Astral Vulture's Crimson Plumage (5✩)",
+          "4. Chain Breaker (4✩)* [R5]",
+          "≈ Alley Hunter (4✩) [R5]",
+          "5. Range Gauge (4✩)*",
+          "≈ Song of Stillness (4✩) [R5]*",
+          "6. Elegy for the End (5✩)*",
+          "≈ Fading Twilight (4✩) [R5]",
+          "7. Favonius Warbow (4✩)*"
+        ],
+        "artifacts": [
+          "1. Scroll of the Hero of Cinder City (4)*",
+          "2. Noblesse Oblige (4)",
+          "3. Emblem of Severed Fate (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK% / Energy Recharge",
+            "Goblet - Electro DMG",
+            "Circlet - Crit Rate / DMG",
+            "Alternative Reaction Focused Build:",
+            "Sands - Elemental Mastery / Energy Recharge",
+            "Goblet - Elemental Mastery",
+            "Circlet - Elemental Mastery"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. Crit Rate / DMG",
+            "3. ATK%",
+            "≈ Elemental Mastery",
+            "*Prioritize Energy Recharge first until you can burst off cooldown"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill"
+        ],
+        "tips": "ABILITY TIPS"
+      }
+    ]
+  },
+  {
+    "name": "IANSAN",
+    "element": "Electro",
+    "builds": [
+      {
+        "role": "BUFF SUPPORT\n✩",
+        "weapons": [
+          "1. Engulfing Lightning (5✩)",
+          "≈ Symphonist of Scents (5✩)*",
+          "2. Calamity Queller (5✩)",
+          "≈ Favonius Lance (4✩)*",
+          "≈ Tamayuratei no Ohanashi (4✩) [R5]",
+          "3. Skyward Spine (5✩)",
+          "4. Vortex Vanquisher (5✩)",
+          "5. Missive Windspear (4✩) [R5]",
+          "6. Kitain Cross Spear (4✩) [R5]",
+          "***Check notes"
+        ],
+        "artifacts": [
+          "1. Scroll of the Hero of Cinder City (4)",
+          "2. Noblesse Oblige (4)",
+          "3. Emblem of Severed Fate (2)/ +18% ATK set (2)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK% / Energy Recharge",
+            "Goblet - ATK%",
+            "Circlet - ATK% / Crit Rate*",
+            "*Only if using Favonius Lance"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. ATK%",
+            "3. Crit Rate**",
+            "*Prioritize until requirements are met",
+            "**Only if using Favonius Lance"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst"
+        ],
+        "tips": "Iansan's buff is based on 3 Factors:\n\n1. Iansan's Total ATK\n2. # of Iansan's Nightsoul Points\n3. \"Kinetic Energy Scale\"\n\nIansan can hold a max of 54 Nightsoul Points, and her buff decreases in value when she's below 42 Nightsoul Points. Consistent movement is needed to maintain good buff uptime.\n\nIansan's [C4] allows her to frontload Nightsoul Points if it had ever overflowed previously."
+      }
+    ]
+  },
+  {
+    "name": "TRAVELER",
+    "element": "Electro",
+    "builds": [
+      {
+        "role": "ENERGY SUPPORT\n✩",
+        "weapons": [
+          "1. Favonius Sword (4✩)",
+          "≈ Freedom-Sworn (5✩)",
+          "2. Sacrificial Sword (4✩)",
+          "3. Skyward Blade (5✩)",
+          "4. Festering Desire (4✩)",
+          "5. Skyrider Sword (3✩)"
+        ],
+        "artifacts": [
+          "1. Noblesse Oblige (4)",
+          "2. Scroll of the Hero of Cinder City (4)",
+          "3. Emblem of Severed Fate (4)",
+          "4. Instructor (4)",
+          "5. +20% Energy Recharge set (2) +20% Energy Recharge set (2)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge",
+            "Goblet - Electro DMG",
+            "Circlet - Crit Rate / DMG",
+            "**Main stats aren't as important. Stack Energy Recharge for comfortable Elemental Burst uptime instead."
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. ATK%",
+            "3. Crit Rate / DMG"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "It is not recommended to level Elemental Skill and Burst past talent level 7 as the amount of energy generated does not increase."
+      }
+    ]
+  },
+  {
+    "name": "KEQING",
+    "element": "Electro",
+    "builds": [
+      {
+        "role": "AGGRAVATE DPS\n ✩",
+        "weapons": [
+          "1. Mistsplitter Reforged (5✩)",
+          "≈ Primordial Jade Cutter (5✩)",
+          "≈ Haran Geppaku Futsu (5✩)",
+          "2. Light of Foliar Incision (5✩)",
+          "≈ Uraku Misugiri (5✩)*",
+          "3. Harbinger of Dawn [R5] (3✩)*",
+          "≈ Splendor of Tranquil Waters (5✩)",
+          "≈ Lightbearing Moonshard (5✩)",
+          "≈ Absolution (5✩)",
+          "4. Freedom-Sworn (5✩)",
+          "≈ Wolf-Fang (4✩)*",
+          "5. The Black Sword (4✩)*",
+          "≈ Toukabou Shigure [R5] (4✩)*",
+          "≈ Calamity of Eshu [R5] (4✩)*",
+          "6. Iron Sting [R5] (4✩)",
+          "≈ Finale of the Deep [R5] (4✩)*",
+          "≈ Summit Shaper (5✩)*",
+          "≈ Lion's Roar (4✩)*"
+        ],
+        "artifacts": [
+          "1. Thundering Fury (4)",
+          "2. Thundersoother (4)",
+          "≈ Gilded Dreams (4)",
+          "3. Thundering Fury (2) / +80 EM set (2) / +18% ATK set (2) [Choose Two]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK% / Elemental Mastery",
+            "Goblet - Electro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. ATK%",
+            "≈ Elemental Mastery",
+            "3. Energy Recharge*",
+            "*Aggravate Keqing is usually played with another Electro unit on the team, commonly Fischl, which basically eliminates the need for any Energy Recharge"
+          ]
+        },
+        "talent_priority": [
+          "1. Normal Attack",
+          "2. Burst",
+          "≈ Skill",
+          "*It is recommended to level Keqing to level 90"
+        ],
+        "tips": "Recommended Combos:\n\nWith Thundering Fury (4): EQE 2N1C E 2N1C\nWithout Thundering Fury (4): EQE 4N1C\n\nE = Skill\nQ = Burst\nN# = Normal Attack(s)\nC = Charged Attack"
+      },
+      {
+        "role": "QUICKBLOOM DPS\n ✩",
+        "weapons": [
+          "1. Light of Foliar Incision (5✩)",
+          "≈ Primordial Jade Cutter (5✩)",
+          "≈ Mistsplitter Reforged (5✩)",
+          "2. Haran Geppaku Futsu (5✩)",
+          "≈ Uraku Misugiri (5✩)*",
+          "≈ Freedom-Sworn (5✩)",
+          "3. Toukabou Shigure [R5] (4✩)",
+          "≈ Harbinger of Dawn [R5] (3✩)*",
+          "≈ Splendor of Tranquil Waters (5✩)",
+          "≈ Lightbearing Moonshard (5✩)",
+          "4. Iron Sting [R5] (4✩)",
+          "≈ Absolution (5✩)",
+          "5. Wolf-Fang (4✩)*",
+          "6. The Black Sword (4✩)*",
+          "7. Lion's Roar (4✩)*",
+          "≈ Calamity of Eshu [R5] (4✩)*",
+          "≈ Finale of the Deep [R5] (4✩)*",
+          "≈ Summit Shaper (5✩)"
+        ],
+        "artifacts": [
+          "1. Thundering Fury (4)",
+          "2. Gilded Dreams (4)",
+          "3. Thundering Fury (2) / +80 EM set (2) / +18% ATK set (2) [Choose Two]",
+          "4. Marechaussee Hunter (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery / ATK%",
+            "Goblet - Electro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. Crit Rate / DMG",
+            "3. Elemental Mastery",
+            "4. ATK%",
+            "*Prioritize Energy Recharge first until requirements are met"
+          ]
+        },
+        "talent_priority": [
+          "1. Normal Attack",
+          "2. Burst",
+          "3. Skill",
+          "*It is recommended to level Keqing to level 90"
+        ],
+        "tips": "Recommended Combos:\n\nWith Thundering Fury (4): EQE 2N1C E 2N1C\nWithout Thundering Fury (4): EQE 4N1C\n\nE = Skill\nQ = Burst\nN# = Normal Attack(s)\nC = Charged Attack"
+      }
+    ]
+  },
+  {
+    "name": "RAIDEN SHOGUN",
+    "element": "Electro",
+    "builds": [
+      {
+        "role": "HYPERBLOOM ",
+        "weapons": [
+          "1. Dragon's Bane (4✩)",
+          "2. Moonpiercer (4✩)",
+          "3. Kitain Cross Spear (4✩)"
+        ],
+        "artifacts": [
+          "1. Flower of Paradise Lost (4)",
+          "2. Gilded Dreams (4)",
+          "3. +80 EM set (2) / +80 EM set (2)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery",
+            "Goblet - Elemental Mastery",
+            "Circlet - Elemental Mastery"
+          ],
+          "sub": [
+            "1. Elemental Mastery"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "*Typically Raiden only uses her Skill for Hyperbloom, so leveling Burst is not necessary."
+        ],
+        "tips": "In terms of playstyle, Hyperbloom Raiden is typically only using her Skill then swapping character. Try to ensure it's always active for Hyperbloom triggering."
+      },
+      {
+        "role": "DPS & ENERGY SUPPORT\n ✩",
+        "weapons": [
+          "1. Engulfing Lightning (5✩)",
+          "2. Staff of Homa (5✩)",
+          "≈ Staff of the Scarlet Sands (5✩)*",
+          "≈ Symphonist of Scents (5✩)",
+          "≈ Lumidouce Elegy (5✩)",
+          "≈ Primordial Jade Winged-Spear (5✩)",
+          "3. Calamity Queller (5✩)",
+          "≈ Deathmatch (4✩)*",
+          "4. Vortex Vanquisher (5✩)",
+          "5. \"The Catch\" (4✩) [R5]",
+          "≈ Skyward Spine (5✩)*",
+          "6. Wavebreaker's Fin (4✩)*",
+          "≈ Lithic Spear (4✩)*",
+          "7. Favonius Lance (4✩)*"
+        ],
+        "artifacts": [
+          "1. Emblem of Severed Fate (4)",
+          "2. Noblesse Oblige (2) / Thundering Fury (2) / +18% ATK set (2) / Emblem of Severed Fate (2) [Choose Two]",
+          "3. Tenacity of the Millelith (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / ATK%*",
+            "Goblet - Electro DMG / ATK%*",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. ATK%",
+            "3. Energy Recharge",
+            "4. Elemental Mastery*",
+            "*Elemental Mastery is only desirable in Aggravate"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill"
+        ],
+        "tips": "Start your rotation with Raiden's Elemental Skill.\n\nBurst combo :\n- Burst > 4N4D (Recommended for general use)\n- Burst > 3N3C + N1C (Recommended with Attack Speed)\n\n*N = Normal Attack, C = Charged Attack, D = Dash, E = Elemental Skill"
+      }
+    ]
+  },
+  {
+    "name": "YAE MIKO",
+    "element": "Electro",
+    "builds": [
+      {
+        "role": "OFF-FIELD DPS ✩",
+        "weapons": [
+          "1. Kagura's Verity (5✩)",
+          "2. Skyward Atlas (5✩)",
+          "3. Lost Prayer to the Sacred Winds (5✩)",
+          "4. Memory of Dust (5✩)",
+          "5. Solar Pearl (4✩)",
+          "≈ A Thousand Floating Dreams (5✩)",
+          "6. Oathsworn Eye (4✩) [R5]",
+          "≈ The Widsith (4✩)",
+          "7. Hakushin Ring (4✩)*",
+          "8. Mappa Mare (4✩)"
+        ],
+        "artifacts": [
+          "1. Golden Troupe (4)*",
+          "≈ Emblem of Severed Fate (4)*",
+          "2. +18% ATK set (2) / Thundering Fury (2) / Emblem of Severed Fate (2)* [Choose Two]",
+          "3. Thundersoother (4)*",
+          "4. Tenacity of the Millelith (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / ATK%",
+            "Goblet - Electro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. ATK%",
+            "3. Energy Recharge",
+            "4. Elemental Mastery"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst*"
+        ],
+        "tips": "Start your rotations with Yae's Elemental Skill to amplify her Elemental Burst damage. \n\nBurst combo:\n- Skill > Skill > Skill > Burst > Skill > Skill > Skill\n\n(After the first set of EEE you usually swap out and go through your buff rotation before swapping back to burst)\n\nTake note that none of Yae Miko's abilities snapshot.\n"
+      },
+      {
+        "role": "OFF-FIELD AGGRAVATE DPS\n ✩",
+        "weapons": [
+          "1. Kagura's Verity (5✩)",
+          "2. A Thousand Floating Dreams (5✩)*",
+          "≈ Sunny Morning Sleep-In (5✩)",
+          "3. Tome of the Eternal Flow (5✩)",
+          "4. Lost Prayer to the Sacred Winds (5✩)",
+          "≈ Skyward Atlas (5✩)",
+          "≈ The Widsith (4✩)*",
+          "≈ Tulaytullah's Remembrance (5✩)",
+          "5. Solar Pearl (4✩)*",
+          "6. Oathsworn Eye R5 (4✩)",
+          "7. Hakushin Ring (4✩)*",
+          "8. Mappa Mare (4✩)"
+        ],
+        "artifacts": [
+          "1. Gilded Dreams (4)",
+          "≈ Emblem of Severed Fate (4)*",
+          "≈ Golden Troupe (4)*",
+          "2. Thundering Fury (2) and +80 EM set (2) / +18% ATK set (2) / Golden Troupe (2) / Noblesse Oblige (2) [Choose One]",
+          "3. Thundersoother (4)",
+          "4. Tenacity of the Millelith (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / Elemental Mastery / ATK%",
+            "Goblet - Electro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. Elemental Mastery",
+            "3. ATK%",
+            "4. Energy Recharge"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst*"
+        ],
+        "tips": "Same as above."
+      }
+    ]
+  },
+  {
+    "name": "CYNO",
+    "element": "Electro",
+    "builds": [
+      {
+        "role": "QUICKBLOOM / HYPERBLOOM DPS\n ✩",
+        "weapons": [
+          "1. Staff of the Scarlet Sands (5✩)",
+          "2. Ballad of the Fjords (4✩)",
+          "3. Primordial Jade Winged-Spear (5✩)",
+          "4. Deathmatch (4✩)",
+          "5. Lumidouce Elegy (5✩)",
+          "≈ Staff of Homa (5✩)",
+          "≈ White Tassel (3✩) [R5]",
+          "≈ Missive Windspear (4✩) [R5]",
+          "6. Kitain Cross Spear (4✩)*",
+          "≈ Dragon's Bane (4✩)",
+          "7. Skyward Spine (5✩)*",
+          "8. Favonius Lance (4✩)*"
+        ],
+        "artifacts": [
+          "1. Thundering Fury (4)",
+          "2. Gilded Dreams (4)",
+          "≈ Flower of Paradise Lost (4)",
+          "3. +80 EM set (2) / +80 EM set (2) / Thundering Fury (2) [Choose Two]",
+          "4. Gladiator's Finale (4)",
+          "Conditional (See Notes):",
+          "Marechaussee Hunter (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery",
+            "Goblet - Electro DMG / Elemental Mastery",
+            "Circlet - Crit Rate / DMG / Elemental Mastery"
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. Elemental Mastery",
+            "3. Crit Rate / DMG",
+            "4. ATK%"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill"
+        ],
+        "tips": "Rotations:\n\nThundering Fury (4):\nE N1 Q E 6[N4E]\n\nNon-Thundering Fury:\nE N1 Q N2E 3[N5 N2E]\n\n*E = Elemental Skill, N = Normal Attack, Q = Elemental Burst. "
+      },
+      {
+        "role": " AGGRAVATE DPS",
+        "weapons": [
+          "1. Staff of the Scarlet Sands (5✩)",
+          "2. Primordial Jade Winged-Spear (5✩)",
+          "3. White Tassel (3✩) [R5]",
+          "≈ Ballad of the Fjords (4✩) [w/ Passive]",
+          "≈ Staff of Homa (5✩)",
+          "≈ Lumidouce Elegy (5✩)",
+          "≈ Deathmatch (4✩)*",
+          "4. Skyward Spine (5✩)*",
+          "≈ Kitain Cross Spear (4✩)*",
+          "5. Favonius Lance (4✩)*"
+        ],
+        "artifacts": [
+          "1. Thundering Fury (4)*",
+          "2. Gladiator's Finale (4)",
+          "3. Gilded Dreams (4)*",
+          "4. +18% ATK set (2) / Thundering Fury (2) / Emblem of Severed Fate (2) / +80 EM set (2) [Choose Two]",
+          "5. Thundersoother (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery / ATK%*",
+            "Goblet - Electro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. Crit Rate / DMG",
+            "3. ATK%",
+            "≈ Elemental Mastery"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill"
+        ],
+        "tips": "Rotations:\n\nThundering Fury (4):\nE N1 Q E 6[N4E]\n\nNon-Thundering Fury:\nE N1 Q N2E 3(N5 N2E)"
+      }
+    ]
+  },
+  {
+    "name": "CLORINDE",
+    "element": "Electro",
+    "builds": [
+      {
+        "role": " DPS\n ✩",
+        "weapons": [
+          "1. Absolution (5✩)",
+          "2. Light of Foliar Incision (5✩)",
+          "≈ Haran Geppaku Futsu (5✩)*",
+          "3. Mistsplitter Reforged (5✩)*",
+          "≈ Primordial Jade Cutter (5✩)*",
+          "≈ Uraku Misugiri (5✩)",
+          "≈ Freedom-Sworn (5✩)*",
+          "4. Calamity of Eshu (4✩)* [R5]",
+          "5. Finale of the Deep (4✩) [R5]",
+          "≈ The Black Sword (4✩)*"
+        ],
+        "artifacts": [
+          "1. Fragment of Harmonic Whimsy (4)",
+          "2. Gladiator's Finale (4)",
+          "3. Thundering Fury (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK% / Elemental Mastery*",
+            "Goblet - Electro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. ATK%",
+            "3. Elemental Mastery*",
+            "4. Energy Recharge*"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst*"
+        ],
+        "tips": "Skill Combos:\n\nWith Burst:\n\nQ > E > E > 5N3E > N2 or N3\n\nQ > E > 6N3E\n\nWithout Burst:\n\nE > 6N3E\n\nN = Normal Attack; E = Elemental Skill; Q = Elemental Burst"
+      }
+    ]
+  },
+  {
+    "name": "VARESA",
+    "element": "Electro",
+    "builds": [
+      {
+        "role": " DPS\n ✩",
+        "weapons": [
+          "1. Vivid Notions (5✩)",
+          "2. Reliquary of Truth (5✩)",
+          "3. Kagura's Verity (5✩)",
+          "4. Lost Prayer to the Sacred Winds (5✩)",
+          "5. Tome of the Eternal Flow (5✩)*",
+          "≈ Surf's Up! (5✩)*",
+          "≈ Cashflow Supervision (5✩)*",
+          "6. Tulaytullah's Remembrance (5✩)",
+          "≈ Crane's Echoing Call (5✩)*",
+          "7. The Widsith (4✩)*",
+          "≈ Skyward Atlas (5✩)",
+          "8. Sacrificial Jade (4✩)",
+          "9. Solar Pearl (4✩)",
+          "≈ Blackcliff Agate (4✩)",
+          "≈ Dawning Frost (4✩)",
+          "≈ Flowing Purity (4✩)* [R5]"
+        ],
+        "artifacts": [
+          "1. Long Night's Oath (4)",
+          "2. Obsidian Codex (4)*",
+          "3. Long Night's Oath (2) / Thundering Fury (2) / +18%  ATK set (2) [Choose Two]",
+          "Conditional (See Notes):",
+          "Marechaussee Hunter (4)*",
+          "Artifact calculations can be found here"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK%",
+            "Goblet - Electro DMG%",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. Crit Rate / DMG",
+            "3. ATK%",
+            "*Prioritize until requirements are met"
+          ]
+        },
+        "talent_priority": [
+          "1. Normal Attack",
+          "2. Burst",
+          "3. Skill"
+        ],
+        "tips": "Generally combos for Varesa are very flexible, most of which consist of [En1P En1P (Q)] chunks that can be used at any time. Before [C2] you will not be able to fill your field time with just using all of your skill due to her fast animations, this makes a secondary dps a viable option, or can opt for doing [Cp Cp] to set up for your next rotation.\n\nShort Hold Skill when starting the rotation with Obsidian Codex (4) will result in the highest DMG on average."
+      }
+    ]
+  },
+  {
+    "name": "INEFFA",
+    "element": "Electro",
+    "builds": [
+      {
+        "role": " OFF-FIELD DPS & BUFF & SHIELD SUPPORT\n ✩",
+        "weapons": [
+          "1. Fractured Halo (5✩)",
+          "2. Staff of the Scarlet Sands (5✩)*",
+          "3. Lumidouce Elegy (5✩)",
+          "≈ Symphonist of Scents (5✩)",
+          "≈ Staff of Homa (5✩)",
+          "4. Bloodsoaked Ruins (5✩)",
+          "5. Calamity Queller (5✩)",
+          "6. Primordial Jade Winged-Spear (5✩)",
+          "≈ Crimson Moon's Semblance (5✩)",
+          "≈ Deathmatch (4✩)*",
+          "7. Engulfing Lightning (5✩)",
+          "≈ Ballad of the Fjords (4✩)*",
+          "8. Vortex Vanquisher (5✩)",
+          "≈ Prospector's Shovel (4✩)* [R5]",
+          "≈ Sacrificer's Staff (4✩)",
+          "≈ Skyward Spine (5✩)",
+          "**Ascendant Gleam assumed here; Ineffa uses Burst every other rotation unless she uses an ER weapon**"
+        ],
+        "artifacts": [
+          "1. Aubade of Morningstar and Moon (4)",
+          "2. Gilded Dreams (4)",
+          "≈ A Day Carved from Rising Winds (4)",
+          "3. Silken Moon's Serenade (4)",
+          "≈ Tenacity of the Millelith (4)*",
+          "4. +18% ATK set (2) / +80 EM set (2) [Choose Two]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK%",
+            "Goblet - ATK%",
+            "Circlet - Crit Rate / DMG",
+            "*ATK% is preferred over DMG% as Ineffa's A1 does not scale well with DMG%"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. ATK%",
+            "3. Elemental Mastery",
+            "4. Energy Recharge*",
+            "*See Ability Tips"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "Birgitta stays on-field longer than both of Ineffa's Elemental Skill and Burst individual cooldowns, meaning that Birgitta has 100% field uptime.\n\nWhen Ineffa has higher Energy Recharge requirements (typically 140%+), building ER to use her Burst every rotation results in a personal damage loss in exchange for more uptime on her teamwide buff. Teams with Ineffa as a significant source of damage will want to use her Burst every other rotation and ignore ER."
+      }
+    ]
+  },
+  {
+    "name": "FLINS",
+    "element": "Electro",
+    "builds": [
+      {
+        "role": " DPS\n ✩",
+        "weapons": [
+          "1. Bloodsoaked Ruins (5✩)",
+          "2. Staff of the Scarlet Sands (5✩)*",
+          "3. Fractured Halo (5✩)",
+          "≈ Staff of Homa (5✩)",
+          "4. Symphonist of Scents (5✩)",
+          "≈ Primordial Jade Winged-Spear (5✩)",
+          "≈ Lumidouce Elegy (5✩)",
+          "5. Crimson Moon's Semblance (5✩)",
+          "6. Vortex Vanquisher (5✩)*",
+          "≈ Deathmatch (4✩)*",
+          "≈ Ballad of the Fjords (4✩)*",
+          "≈ Calamity Queller (5✩)",
+          "7. Prospector's Shovel (4✩) [R5]",
+          "≈ Missive Windspear (4✩) [R5]",
+          "≈ Sacrificer's Staff (4✩)",
+          "≈ Blackcliff Pole (4✩)",
+          "≈ Skyward Spine (5✩)"
+        ],
+        "artifacts": [
+          "1. Night of the Sky's Unveiling (4)",
+          "2. Gilded Dreams (4)",
+          "3. +18% ATK set (2) / +80 EM set (2) / +20% Energy Recharge set (2) [Choose Two]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK%",
+            "Goblet - ATK%",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. Crit Rate / DMG",
+            "3. ATK%",
+            "4. Elemental Mastery",
+            "*Prioritize until requirements are met"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill"
+        ],
+        "tips": "Flins requires another Moonsign character in his team to unlock a large portion of his damage potential."
+      }
+    ]
+  }
+]

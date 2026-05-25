@@ -1,0 +1,1147 @@
+[
+  {
+    "name": "XINGQIU",
+    "element": "Hydro",
+    "builds": [
+      {
+        "role": "HIGH ENERGY REQUIREMENT\n(OFF-FIELD DPS)\n✩\n",
+        "weapons": [
+          "1. Favonius Sword (4✩)",
+          "2. Skyward Blade (5✩)",
+          "3. Amenoma Kageuchi (4✩) [R5]",
+          "≈ Fleuve Cendre Ferryman (4✩) [R5]",
+          "4. Sacrificial Sword (4✩)* [R4+]",
+          "Conditional (See Notes):",
+          "Athame Artis (5✩)*",
+          "Primordial Jade Cutter (5✩)*",
+          "Freedom-Sworn (5✩)*"
+        ],
+        "artifacts": [
+          "1. Emblem of Severed Fate (4)*",
+          "2. Noblesse Oblige (4)*",
+          "≈ Scroll of the Hero of Cinder City (4)",
+          "3. Nymph's Dream (4)",
+          "≈ A Day Carved from Rising Winds (4)",
+          "≈ Noblesse Oblige (2) / 15% Hydro DMG Bonus set (2) / +18% ATK set (2) / Emblem of Severed Fate (2) [Choose Two]",
+          "Conditional (See Notes):",
+          "Blizzard Strayer (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / ATK%",
+            "Goblet - Hydro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. ATK%",
+            "3. Energy Recharge**",
+            "**Prioritize Energy Recharge first if you can't burst off cooldown"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill"
+        ],
+        "tips": "Rotations:\nQuick E D Q N1\nLonger rotation (C4+) Q N1 E D N2*\n\n*One can use the Book trick method instead of the final N2 which involves pausing the game by opening a menu for a second to allow him to collect the particles."
+      },
+      {
+        "role": "LOW ENERGY REQUIREMENT\n(OFF-FIELD DPS)\n✩",
+        "weapons": [
+          "1. Athame Artis (5✩)*",
+          "≈ Primordial Jade Cutter (5✩)",
+          "2. Mistsplitter Reforged (5✩)",
+          "3.  Azurelight (5✩)",
+          "≈ Haran Geppaku Futsu (5✩)",
+          "≈ Light of Foliar Incision (5✩)",
+          "≈ Absolution (5✩)",
+          "4. Summit Shaper (5✩)",
+          "≈ Skyward Blade (5✩)",
+          "≈ Uraku Misugiri (5✩)",
+          "5. Splendor of Tranquil Waters (5✩)",
+          "≈ Lightbearing Moonshard (5✩)",
+          "6. Wolf-Fang (4✩)",
+          "7. Favonius Sword (4✩)",
+          "8. Fleuve Cendre Ferryman (4☆) [R5]",
+          "≈ Finale of the Deep (4✩)*",
+          "≈ Amenoma Kageuchi (4✩)",
+          "Conditional (See Notes):",
+          "Freedom-Sworn (5✩)*"
+        ],
+        "artifacts": [
+          "1. Emblem of Severed Fate (4)*",
+          "2. Noblesse Oblige (4)*",
+          "≈ Scroll of the Hero of Cinder City (4)",
+          "3. Nymph's Dream (4)",
+          "≈ A Day Carved from Rising Winds (4)",
+          "≈ Noblesse Oblige (2) / 15% Hydro DMG Bonus set (2) / +18% ATK set (2) / Emblem of Severed Fate (2) [Choose Two]",
+          "Conditional (See Notes):",
+          "Blizzard Strayer (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / ATK%",
+            "Goblet - Hydro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. ATK%",
+            "3. Energy Recharge**",
+            "**Prioritize Energy Recharge first if you can't burst off cooldown"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill"
+        ],
+        "tips": "Rotations:\nQuick E D Q N1\nLonger rotation (C4+) Q N1 E D N2*\n\n*One can use the Book trick method instead of the final N2 which involves pausing the game by opening a menu for a second to allow him to collect the particles."
+      }
+    ]
+  },
+  {
+    "name": "BARBARA",
+    "element": "Hydro",
+    "builds": [
+      {
+        "role": "HEAL SUPPORT\n✩",
+        "weapons": [
+          "1. Thrilling Tales of Dragon Slayers (3✩)",
+          "2. Everlasting Moonglow (5✩)*",
+          "3. Prototype Amber (4✩)",
+          "≈ Ash-Graven Drinking Horn (4✩)",
+          "4. Favonius Codex (4✩)",
+          "5. Hakushin Ring (4✩)* [R5]"
+        ],
+        "artifacts": [
+          "1. Ocean-Hued Clam (4)*",
+          "2. Scroll of the Hero of Cinder City (4)*",
+          "≈ Instructor (4)*",
+          "3. +15% Healing Bonus (2) set / +20% HP (2) set [Choose Two]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - HP%",
+            "Goblet - HP%",
+            "Circlet - Healing Bonus"
+          ],
+          "sub": [
+            "1. HP%",
+            "2. Flat HP"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "Barbara's skill gives you a pulse of healing every 5 seconds, every pulse will imbue you with a Hydro status, that means it can be used for status-cleansing (Pyro in specific, while other elements may take more pulses).\r\n\r\nTake note that Hydro reacting with Cryo status will freeze you in place, her skill should be used in consideration of the environment"
+      },
+      {
+        "role": "BLOOM DPS",
+        "weapons": [
+          "1. Starcaller's Watch (5✩)",
+          "2. A Thousand Floating Dreams (5✩)",
+          "≈ Sunny Morning Sleep-In (5✩)",
+          "3. Sacrificial Fragments (4✩)",
+          "≈ Etherlight Spindlelute (4✩) [R5]",
+          "4. Magic Guide (3✩)"
+        ],
+        "artifacts": [
+          "1. Flower of Paradise Lost (4)",
+          "2. Gilded Dreams (4)",
+          "3. +80 EM set (2) +80 EM set (2)",
+          "4. Ocean-Hued Clam (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery",
+            "Goblet - Elemental Mastery",
+            "Circlet - Elemental Mastery"
+          ],
+          "sub": [
+            "1. Elemental Mastery",
+            "2. Energy Recharge"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst",
+          "*Talent levels are only needed for comfort"
+        ],
+        "tips": "Barbara's skill gives you a pulse of healing every 5 seconds, every pulse will imbue you with a Hydro status, that means it can be used for status-cleansing (Pyro in specific, while other elements may take more pulses).\r\n\r\nTake note that Hydro reacting with Cryo status will freeze you in place, her skill should be used in consideration of the environment"
+      }
+    ]
+  },
+  {
+    "name": "CANDACE",
+    "element": "Hydro",
+    "builds": [
+      {
+        "role": "BUFF SUPPORT\n✩",
+        "weapons": [
+          "1. Favonius Lance (4✩)*",
+          "2. Engulfing Lightning (5✩)*",
+          "3. Staff of Homa (5✩)*",
+          "≈ Deathmatch (4✩)*",
+          "≈ \"The Catch\" (4✩)*",
+          "4. Prototype Starglitter (4✩)",
+          "5. Skyward Spine (5✩)",
+          "6. Black Tassel (3✩)"
+        ],
+        "artifacts": [
+          "1. Scroll of the Hero of Cinder City (4)*",
+          "2. Emblem of Severed Fate (4)*",
+          "3. Instructor (4)",
+          "4. Emblem of Severed Fate (2) / +15% Hydro DMG Bonus set (2) / Noblesse Oblige (2) / +20% HP set (2) [Choose Two]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / HP%",
+            "Goblet - HP% / Hydro DMG",
+            "Circlet - HP% / Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. Crit Rate*",
+            "3. HP%",
+            "4. Flat HP",
+            "*Crit Rate only if running Favonius Lance"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst"
+        ],
+        "tips": "In some teams, Candace's hold Elemental Skill cooldown is too long for rotations to work properly, so if Candace isn't C4, it's recommended to avoid getting hit and to do a tap Skill as quick as possible."
+      }
+    ]
+  },
+  {
+    "name": "DAHLIA",
+    "element": "Hydro",
+    "builds": [
+      {
+        "role": "SHIELD SUPPORT\n✩",
+        "weapons": [
+          "1. Favonius Sword (4✩)",
+          "2. Key of Khaj Nisut (5✩)",
+          "3. The Dockhand's Assistant (4✩)",
+          "4. Peak Patrol Song (5✩)*",
+          "≈ Freedom-Sworn (5✩)*",
+          "5. Skyrider Sword (3✩)"
+        ],
+        "artifacts": [
+          "1. Noblesse Oblige (4)",
+          "2. Scroll of the Hero of Cinder City (4)",
+          "2. +20% HP set (2) / +20% HP set (2)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / HP%",
+            "Goblet - HP%",
+            "Circlet - HP%"
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. HP%",
+            "3. CRIT Rate*",
+            "4. Flat HP",
+            "*CRIT Rate only if running Favonius Sword"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst"
+        ],
+        "tips": "Dahlia's shield will take overflow damage when broken. This occurs before it is renewed with a Benison stack.\n\nDahlia's A4 passive is maximized at 40,000 HP."
+      }
+    ]
+  },
+  {
+    "name": "AINO",
+    "element": "Hydro",
+    "builds": [
+      {
+        "role": "REACTION SUPPORT\n✩",
+        "weapons": [
+          "1. Favonius Greatsword (4✩)*",
+          "2. Makhaira Aquamarine (4✩)*",
+          "3. Flame-Forged Insight (4✩) [R5]*",
+          "≈ Master Key (4✩)*"
+        ],
+        "artifacts": [
+          "Conditional (See Notes):",
+          "Silken Moon's Serenade (4)",
+          "Noblesse Oblige (4)",
+          "Scroll of the Hero of Cinder City (4)",
+          "Instructor (4)",
+          "Deepwood Memories (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / Elemental Mastery",
+            "Goblet - Elemental Mastery",
+            "Circlet -  Elemental Mastery / Crit Rate*",
+            "*Crit Rate only if using Favonius Greatsword",
+            "Aino does not deal a significant amount of damage, so her mainstats are not very important beyond fulfilling Energy Recharge requirements."
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. Elemental Mastery",
+            "3. CRIT Rate*",
+            "*Crit Rate only if using Favonius Greatsword"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill",
+          "Talent levels are not a necessity."
+        ],
+        "tips": "Aino's A1 talent allows her Elemental Burst to attack more frequently and have a larger AoE DMG if Moonsign: Ascendant Gleam is active. This requires 2 or more Nod-Krai characters in the party. Aino herself counts towards this."
+      }
+    ]
+  },
+  {
+    "name": "TRAVELER",
+    "element": "Hydro",
+    "builds": [
+      {
+        "role": "SUPPORT",
+        "weapons": [
+          "1. Favonius Sword (4✩)",
+          "2. Fleuve Cendre Ferryman (4✩) [R5]",
+          "3. Skyward Blade (5✩)",
+          "≈ Freedom-Sworn (5✩)",
+          "≈ Sacrificial Sword (4✩)",
+          "≈ Amenoma Kageuchi (4✩)"
+        ],
+        "artifacts": [
+          "1. Instructor (4)",
+          "≈ Noblesse Oblige (4)",
+          "≈ Scroll of the Hero of Cinder City (4)",
+          "3. Tenacity of the Millelith (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / ATK%",
+            "Goblet - Hydro DMG",
+            "Circlet - Crit Rate / Crit DMG / Healing Bonus"
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. Crit Rate / DMG",
+            "3. ATK%"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "Don't use Hydro Traveler unless you have to for Pneuma mechanics and don't own the Sword of Narzissenkreuz yet.\n\nTraveler does not generate particles if interrupted during the hold state of their Skill."
+      },
+      {
+        "role": "ON-FIELD DPS",
+        "weapons": [
+          "1. Primordial Jade Cutter (5✩)",
+          "≈ Mistsplitter Reforged (5✩)",
+          "≈ Splendor of Tranquil Waters (5✩)",
+          "≈ Uraku Misugiri (5✩)*",
+          "2. Light of Foliar Incision (5✩)",
+          "≈ Haran Geppaku Futsu (5✩)",
+          "≈ Absolution (5✩)",
+          "3. Summit Shaper (5✩)*",
+          "≈ Lightbearing Moonshard (5✩)",
+          "4. Wolf Fang (4✩)*",
+          "5. Finale of the Deep (4✩)*",
+          "≈ Harbinger of Dawn (3✩)*",
+          "6. Fleuve Cendre Ferryman (4✩) [R5]",
+          "≈ Festering Desire (4✩) [R5]",
+          "7. Favonius Sword (4✩)*"
+        ],
+        "artifacts": [
+          "1. Marechaussee Hunter (4)",
+          "2. Emblem of Severed Fate (4)",
+          "3. Golden Troupe (4)",
+          "≈ +15% Hydro DMG Bonus set (2) / Golden Troupe (2) / Emblem of Severed Fate (2) / +18% ATK set (2)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / ATK%",
+            "Goblet - Hydro DMG",
+            "Circlet - Crit Rate / Crit DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. Crit Rate / DMG",
+            "3. ATK%",
+            "4. HP%"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "Hydro Traveler's personal DPS is not high enough to clear the abyss, unless used in an extremely expensive and invested team."
+      }
+    ]
+  },
+  {
+    "name": "TARTAGLIA",
+    "element": "Hydro",
+    "builds": [
+      {
+        "role": "DPS\n ✩",
+        "weapons": [
+          "1. Polar Star (5✩)*",
+          "2. Hunter's Path (5✩)*",
+          "≈ Aqua Simulacra (5✩)",
+          "≈ Skyward Harp (5✩)",
+          "≈ Thundering Pulse (5✩)",
+          "≈ Astral Vulture's Crimson Plumage (5✩)*",
+          "3. The First Great Magic (5✩)",
+          "4. The Viridescent Hunt (4✩)*",
+          "5. King's Squire (4✩) [R5]*",
+          "≈ Amos' Bow (5✩)",
+          "≈ The Stringless (4✩) [R5]",
+          "6. Scion of the Blazing Sun (4✩)*",
+          "≈ Blackcliff Warbow (4✩)*",
+          "≈ Chain Breaker (4✩) [R5]",
+          "7. Windblume Ode (4✩) [R5]",
+          "≈ Hamayumi (4✩) [R5]*",
+          "≈ Mouun's Moon (4✩)*",
+          "≈ Rust (4✩) [R5]"
+        ],
+        "artifacts": [
+          "1. Nymph's Dream (4)",
+          "2. Heart of Depth (4)",
+          "3. +15% Hydro DMG set (2) +18% ATK set (2)*",
+          "4. Noblesse Oblige (2) / +15% Hydro DMG set (2) / +18% ATK set (2) [Choose Two]",
+          "5. Shimenawa's Reminiscence (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK%",
+            "Goblet - Hydro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. ATK%",
+            "3. Elemental Mastery",
+            "4. Energy Recharge"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst",
+          "3. Normal Attack"
+        ],
+        "tips": "Optimal skill duration for [C0]: 7s, 9s or 12s.\nOptimal skill duration for [C1]: 9s, 11s or 14s.\n\nMelee Burst: Only to be used in situations where you need only 1 rotation to clear as the ER requirement to maintain burst uptime is quite high (170-190%), you'll always want to start your rotations with Ranged Burst since it refunds energy to maintain your rotation well.\n\nSkill Combo:\n- 2 NA + 1 CA (Optimal)\n- 3 NA + 1 CA (Recommended)\n- 5 NA + 1 CA (Recommended combo if using Rust or Thundering Pulse)\n\n*NA = Normal Attack, CA = Charged Attack\n\nThe Optimal combo provides more damage but consumes more stamina. Recommended combo provides slightly less damage but is stamina neutral and what most weapons should use. \n"
+      }
+    ]
+  },
+  {
+    "name": "MONA",
+    "element": "Hydro",
+    "builds": [
+      {
+        "role": "DPS\n(OUT OF DATE)",
+        "weapons": [
+          "1. Skyward Atlas (5✩)",
+          "2. The Widsith (4✩)",
+          "3. Lost Prayer to the Sacred Winds (5✩)",
+          "4. Solar Pearl (4✩)",
+          "5. Dodoco Tales (4✩)",
+          "6. Blackcliff Agate (4✩)",
+          "7. Mappa Mare (4✩)"
+        ],
+        "artifacts": [
+          "1. Heart of Depth (4)",
+          "2. Noblesse Oblige (2) +15% Hydro DMG set (2)",
+          "3.  Noblesse Oblige (2) / +15% Hydro DMG set (2) / +18% ATK set (2) / +80 EM set (2) [Choose Two]",
+          "4. Wanderer's Troupe (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK%",
+            "Goblet - Hydro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. ATK%",
+            "3. Elemental Mastery",
+            "4. Energy Recharge"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Normal Attack",
+          "3. Skill"
+        ],
+        "tips": "\n"
+      },
+      {
+        "role": "BURST NUKE\n(OUT OF DATE) \n✩",
+        "weapons": [
+          "1. The Widsith (4✩)",
+          "2. Skyward Atlas (5✩)",
+          "3. Memory of Dust (5✩)",
+          "4. Lost Prayer to the Sacred Winds (5✩)",
+          "5. Solar Pearl (4✩)",
+          "6. Mappa Mare (4✩)"
+        ],
+        "artifacts": [
+          "1. Emblem of Severed Fate (4)",
+          "2. Noblesse Oblige (2) +15% Hydro DMG set (2)",
+          "3. Noblesse Oblige (2) / +15% Hydro DMG set (2) / +18% ATK set (2) / +80 EM set (2) / Emblem of Severed Fate (2) [Choose Two]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK% / Energy Recharge / Elemental Mastery",
+            "Goblet - Hydro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. Energy Recharge",
+            "3. ATK%",
+            "4. Elemental Mastery"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill"
+        ],
+        "tips": "To make Mona's burst damage trigger the Vaporize 2.0x multiplier:\n1. Apply Pyro on enemy\n2. Cast Burst (should react and remove Pyro status on the enemy after using Burst)\n3. Wait 2.5 seconds for Mona's burst ICD (Mona should stay on field if you have Bennett, to keep the buff)\n4. Swap to Pyro character and apply Pyro on enemy\n5. Burst will pop after enemy gets hit, applying Hydro and Vaporizing her damage.\n\n"
+      },
+      {
+        "role": "BUFF SUPPORT\n✩",
+        "weapons": [
+          "1. Thrilling Tales of Dragon Slayers (3✩)*",
+          "2. Favonius Codex (4✩)",
+          "3. A Thousand Floating Dreams (5✩)*",
+          "4. Prototype Amber (4✩)",
+          "5. Wine and Song (4✩)"
+        ],
+        "artifacts": [
+          "1. Noblesse Oblige (4)",
+          "2. Instructor (4)",
+          "3. Tenacity of the Millelith (4)*",
+          "≈ Scroll of the Hero of Cinder City (4)",
+          "4. +20% Energy Recharge set (2) +20% Energy Recharge set (2)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / ATK%",
+            "Goblet - Hydro DMG / ATK%",
+            "Circlet - Crit Rate",
+            "**Offensive stats aren't actually needed on a Freeze Support Mona, focus on Artifact Set Bonus"
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. Crit Rate",
+            "3. ATK%",
+            "**Offensive stats aren't needed, just stack ER for comfortable Elemental Burst uptime"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst"
+        ],
+        "tips": "Mona's Burst applies bubble and Omen debuff upon cast, the count down timer only begins when the bubble is broken.\n\nFrozen enemies can have their bubbles preserved as long as enemies stay in a frozen state. This technique makes Mona a priority Support for Freeze DPS teams."
+      }
+    ]
+  },
+  {
+    "name": "SANGONOMIYA KOKOMI",
+    "element": "Hydro",
+    "builds": [
+      {
+        "role": "HEAL SUPPORT\n✩",
+        "weapons": [
+          "1. Thrilling Tales of Dragon Slayers (3✩)",
+          "2. Prototype Amber (4✩)",
+          "≈ Ash-Graven Drinking Horn (4✩)",
+          "3. Hakushin Ring (4✩)*",
+          "4. Sacrificial Fragments (4✩)*"
+        ],
+        "artifacts": [
+          "1. Tenacity of the Millelith (4)*",
+          "2. Ocean-Hued Clam (4)*",
+          "3. Scroll of the Hero of Cinder City (4)",
+          "4. Song of Day's Past (4)",
+          "5. Maiden Beloved (4)",
+          "6. +15% Healing Bonus set (2) / +20% HP set  [Choose Two]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / HP%",
+            "Goblet - HP%",
+            "Circlet - Healing Bonus / HP%",
+            "**Main Stats are not important for Tenacity of the Millelith (4) if you do not need the extra healing. Focus on Energy Recharge substats instead."
+          ],
+          "sub": [
+            "1. Energy Recharge",
+            "2. HP%",
+            "3. ATK%",
+            "4. Flat HP"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "Kokomi's Elemental Burst dynamically alters her skill's damage, this means that you cannot use her Burst to snapshot the buff onto the Skill and swap out.\n"
+      },
+      {
+        "role": "DPS",
+        "weapons": [
+          "1. Everlasting Moonglow (5✩)",
+          "2. Flowing Purity (4✩)",
+          "≈ Prototype Amber (4✩)",
+          "≈ Ring of Yaxche (4✩)",
+          "≈ Ash-Graven Drinking Horn (4✩)",
+          "3. Hakushin Ring (4✩)*",
+          "4. Thrilling Tales of Dragon Slayers (3✩)*"
+        ],
+        "artifacts": [
+          "1. Ocean-Hued Clam (4)",
+          "2. Heart of Depth (4)",
+          "3. +15% Healing Bonus set (2) / +15% Hydro DMG set (2) / +20% HP set [Choose Two]",
+          "4. Tenacity of the Millelith (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - HP% / Energy Recharge",
+            "Goblet - Hydro DMG",
+            "Circlet - Healing Bonus"
+          ],
+          "sub": [
+            "1. HP%",
+            "2. Energy Recharge",
+            "3. ATK%",
+            "≈ Flat HP",
+            "4. Elemental Mastery"
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Normal Attack",
+          "3. Skill"
+        ],
+        "tips": "Due to Kokomi's high stamina cost on her Charged Attacks, her best attack strings are: \n\nAt [C0]: N2D \nAt [C1]: N3D*\n\n*N3D might result in a loss of Beidou Stormbreaker hits (DPS loss), and as such is only recommended in a Vaporize comp where the added Hydro application is favoured.\n\n*NA = Normal Attack, D = Dash\n"
+      },
+      {
+        "role": "BLOOM DPS",
+        "weapons": [
+          "1. Starcaller's Watch (5✩)",
+          "2. A Thousand Floating Dreams (5✩)",
+          "≈ Sunny Morning Sleep-In (5✩)",
+          "3. Sacrificial Fragments (4✩)*",
+          "≈ Etherlight Spindlelute (4☆) [R5]",
+          "4. Magic Guide (3✩)",
+          "≈ Fruit of Fulfillment (4✩)"
+        ],
+        "artifacts": [
+          "1. Flower of Paradise Lost (4)",
+          "2. Gilded Dreams (4)",
+          "3. +80 EM set (2) +80 EM set (2)",
+          "4. Ocean-Hued Clam (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Elemental Mastery",
+            "Goblet - Elemental Mastery",
+            "Circlet - Elemental Mastery"
+          ],
+          "sub": [
+            "1. Elemental Mastery",
+            "2. Energy Recharge",
+            "3. HP%",
+            "4. Flat HP"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "Due to Kokomi's high stamina cost on her Charged Attacks, her best attack strings are: \n\nAt [C0]: N2D \nAt [C1]: N3D*\n\n*N3D might result in a loss of Beidou Stormbreaker hits (DPS loss), and as such is only recommended in a Vaporize comp where the added Hydro application is favoured.\n\n*NA = Normal Attack, D = Dash\n"
+      }
+    ]
+  },
+  {
+    "name": "KAMISATO AYATO",
+    "element": "Hydro",
+    "builds": [
+      {
+        "role": "DPS\n ✩",
+        "weapons": [
+          "1. Haran Geppaku Futsu (5✩)",
+          "≈ Primordial Jade Cutter (5✩)",
+          "2. Mistsplitter Reforged (5✩)",
+          "3. Light of Foliar Incision (5✩)",
+          "5. Skyward Blade (5✩)*",
+          "≈ Splendor of Tranquil Waters (5✩)",
+          "≈ Lightbearing Moonshard (5✩)",
+          "6. Summit Shaper (5✩)*",
+          "7. Finale of the Deep (4✩)*",
+          "≈ The Black Sword (4✩)*",
+          "≈ Kagotsurube Isshin (4✩)",
+          "8. Lion's Roar (4✩)*",
+          "9. Harbinger of Dawn (3✩) [R5]*",
+          "≈ The Flute (4✩)",
+          "≈ Sword of Narzissenkreuz (4✩) [R5]"
+        ],
+        "artifacts": [
+          "1. Heart of Depth (4)",
+          "≈ Gladiator's Finale (4)",
+          "≈ Nymph's Dream (4)*",
+          "2. +15% Hydro DMG set (2) +18% ATK set (2)",
+          "3. Blizzard Strayer (4)*",
+          "4. Thundering Fury (4)*",
+          "Conditional (See Notes):",
+          "Echoes of an Offering (4)*",
+          "Marechaussee Hunter (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - ATK%",
+            "Goblet - Hydro DMG",
+            "Circlet - Crit Rate / DMG"
+          ],
+          "sub": [
+            "1. Crit Rate / DMG",
+            "2. ATK%",
+            "3. Energy Recharge",
+            "4. HP%",
+            "5. Elemental Mastery"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "Try to activate Ayato's Elemental Burst before using his skill to maximize his Normal Attack DMG. Getting enough Energy Recharge for this is important, and varies based on team. Since the casting time is so long, it may not be worth snapshotting into buffs.\n\nThe amount of slashes Ayato can do during an Elemental Skill window is sometimes influenced by the player's set FPS."
+      }
+    ]
+  },
+  {
+    "name": "YELAN",
+    "element": "Hydro",
+    "builds": [
+      {
+        "role": "HIGH ENERGY REQUIREMENT\n(OFF-FIELD DPS)\n✩\n",
+        "weapons": [
+          "1. Elegy for the End (5✩)*",
+          "2. Favonius Warbow (4✩)",
+          "3. Aqua Simulacra (5✩)*",
+          "4. Sacrificial Bow (4✩) [R3]*"
+        ],
+        "artifacts": [
+          "1. Emblem of Severed Fate (4)",
+          "2. Emblem of Severed Fate (2) / +20% HP set (2) / +15% Hydro DMG set (2) / Noblesse Oblige (2) [Choose Two]",
+          "3. Marechaussee Hunter (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / HP%",
+            "Goblet - Hydro DMG / HP%*",
+            "Circlet - Crit Rate / Crit DMG / HP%"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. HP%",
+            "≈ Crit Rate / DMG",
+            "3. Flat HP",
+            "* Energy Recharge should be prioritised until requirements are met."
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill",
+          "3. Normal Attack*"
+        ],
+        "tips": "ABILITY TIPS"
+      },
+      {
+        "role": "LOW ENERGY REQUIREMENT\n(OFF-FIELD DPS)\n✩",
+        "weapons": [
+          "1. Aqua Simulacra (5✩)",
+          "2. Silvershower Heartstrings (5✩)",
+          "3. Mouun's Moon (4✩) [R3-R5]*",
+          "≈ The Stringless (4✩) [R3-R5]",
+          "≈ Slingshot (3✩)",
+          "≈ Sequence of Solitude (4✩) [R5]",
+          "4. Hunter's Path (5✩)*",
+          "≈ Polar Star (5✩)*",
+          "≈ Thundering Pulse (5✩)*",
+          "≈ Skyward Harp (5✩)*",
+          "5. Fading Twilight (4✩) [R5]",
+          "6. Recurve Bow (3✩)"
+        ],
+        "artifacts": [
+          "1. Emblem of Severed Fate (4)",
+          "2. Emblem of Severed Fate (2) / +20% HP set (2) / +15% Hydro DMG set (2) / Noblesse Oblige (2) [Choose Two]",
+          "3. Marechaussee Hunter (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / HP%",
+            "Goblet - Hydro DMG / HP%*",
+            "Circlet - Crit Rate / Crit DMG / HP%"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. HP%",
+            "≈ Crit Rate / DMG",
+            "3. Flat HP",
+            "* Energy Recharge should be prioritised until requirements are met."
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "2. Skill",
+          "3. Normal Attack*"
+        ],
+        "tips": "ABILITY TIPS"
+      }
+    ]
+  },
+  {
+    "name": "NILOU",
+    "element": "Hydro",
+    "builds": [
+      {
+        "role": "BLOOM SUPPORT \n✩",
+        "weapons": [
+          "1. Key of Khaj-Nisut (5✩)",
+          "2. The Dockhand's Assistant (4✩)",
+          "3. Serenity's Call (4✩) [R5]*"
+        ],
+        "artifacts": [
+          "1. +20% HP set (2) +20% HP set (2)",
+          "2. +20% HP set (2) +80 EM set (2)",
+          "3. Deepwood Memories (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - HP%",
+            "Goblet - HP%",
+            "Circlet - HP%"
+          ],
+          "sub": [
+            "1. HP%*",
+            "2. Flat HP",
+            "3. Elemental Mastery",
+            "* Prefers HP substats above all else until you reach the limit of her A4 passive which is at 74444 HP"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst",
+          "Talent levels do not affect Nilou's buff to Bloom damage, so heavy investment in Talents is not necessary"
+        ],
+        "tips": "ABILITY TIPS"
+      }
+    ]
+  },
+  {
+    "name": "NEUVILLETTE",
+    "element": "Hydro",
+    "builds": [
+      {
+        "role": "DPS \n✩",
+        "weapons": [
+          "1. Tome of the Eternal Flow (5✩)",
+          "2. Sacrificial Jade (4✩)",
+          "≈ Surf's Up! (5✩)",
+          "≈ Reliquary of Truth (5✩)",
+          "3. Jadefall's Splendor (5✩)",
+          "≈ Prototype Amber (4✩)",
+          "≈ Cashflow Supervision (5✩)",
+          "≈ The Widsith (4✩)",
+          "≈ Kagura's Verity (5✩)",
+          "≈ Lost Prayer to the Sacred Winds (5✩)",
+          "4. Ash-Graven Drinking Horn (4✩)*"
+        ],
+        "artifacts": [
+          "1. Marechaussee Hunter (4)",
+          "2. Heart of Depth (4)",
+          "3. +15% Hydro DMG set (2) / 20% HP set (2) / Marechaussee Hunter (2) [Choose Two]",
+          "≈ Retracing Bolide (4)",
+          "≈ Wanderer's Troupe (4)",
+          "≈ Nymph's Dream (4)"
+        ],
+        "stats": {
+          "main": [
+            "Sands - HP%",
+            "Goblet - Hydro DMG / HP%",
+            "Circlet - Crit Rate / Crit DMG / HP%"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. Crit Rate / Crit DMG",
+            "≈ HP%",
+            "3. Flat HP",
+            "* Energy Recharge should be prioritised until requirements are met."
+          ]
+        },
+        "talent_priority": [
+          "1. Normal Attack",
+          "2. Burst",
+          "≈ Skill"
+        ],
+        "tips": "ABILITY TIPS"
+      }
+    ]
+  },
+  {
+    "name": "FURINA",
+    "element": "Hydro",
+    "builds": [
+      {
+        "role": "OFF-FIELD DPS & BUFF SUPPORT\n✩",
+        "weapons": [
+          "1. Splendor of Tranquil Waters (5✩)",
+          "2. Primordial Jade Cutter (5✩)",
+          "3. Festering Desire (4✩) [R5]",
+          "≈ Key of Khaj-Nisut (5✩)*",
+          "≈ Uraku Misugiri (5✩)*",
+          "4. Fleuve Cendre Ferryman (4✩) [R5]",
+          "≈ Favonius Sword (4✩)*",
+          "5. Wolf-Fang (4✩)",
+          "≈ Haran Geppaku Futsu (5✩)",
+          "≈ Light of Foliar Incision (5✩)",
+          "≈ Mistsplitter Reforged (5✩)",
+          "6. Skyward Blade (5✩)",
+          "≈ The Dockhand's Assistant (4✩)",
+          "≈ Harbinger of Dawn (3✩)"
+        ],
+        "artifacts": [
+          "1. Golden Troupe (4)",
+          "2. Tenacity of the Millelith (4)",
+          "3. +15% Hydro DMG set (2) / Golden Troupe (2) / +20% HP set (2) / Emblem of Severed Fate (2) [Choose Two]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - Energy Recharge / HP%",
+            "Goblet - HP% / Hydro DMG*",
+            "Circlet - Crit Rate / Crit DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. HP%",
+            "≈ Crit Rate / Crit DMG",
+            "3. Flat HP",
+            "* Energy Recharge should be prioritised until requirements are met."
+          ]
+        },
+        "talent_priority": [
+          "1. Burst",
+          "≈ Skill"
+        ],
+        "tips": "Because of her HP drain and Burst mechanics, Furina encourages the use of teamwide healers. "
+      }
+    ]
+  },
+  {
+    "name": "SIGEWINNE",
+    "element": "Hydro",
+    "builds": [
+      {
+        "role": "HEAL SUPPORT\n✩",
+        "weapons": [
+          "1. Silvershower Heartstrings (5✩)",
+          "2. Sequence of Solitude (4✩) [R5]",
+          "≈ Recurve Bow (3✩)",
+          "≈ Favonius Warbow (4✩)*",
+          "≈ Elegy for the End (5✩)*",
+          "≈ Sacrificial Bow (4✩) [R5]*"
+        ],
+        "artifacts": [
+          "1. Ocean-Hued Clam (4)",
+          "≈ Song of Days Past (4)",
+          "≈ Scroll of the Hero of Cinder City (4)",
+          "2. Tenacity of the Millelith (2) / Vourukasha's Glow (2)",
+          "3. Tenacity of the Millelith (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - HP%",
+            "Goblet - HP%",
+            "Circlet - HP% / Crit Rate*",
+            "*Crit Rate only if using Favonius Warbow"
+          ],
+          "sub": [
+            "1. HP%",
+            "2. Flat HP",
+            "3. Crit Rate*",
+            "*Crit Rate only if using Favonius Warbow"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill"
+        ],
+        "tips": "At [C1], Sigewinne instead gains 18 Convalescence stacks."
+      }
+    ]
+  },
+  {
+    "name": "MUALANI",
+    "element": "Hydro",
+    "builds": [
+      {
+        "role": "VAPORIZE DPS\n✩",
+        "weapons": [
+          "1. Surf's Up! (5✩)",
+          "2. Reliquary of Truth (5✩)",
+          "3. A Thousand Floating Dreams (5✩)",
+          "4. Tome of the Eternal Flow (5✩)",
+          "≈ Starcaller's Watch (5✩)",
+          "5. Sacrificial Jade (4✩)*",
+          "6. Sunny Morning Sleep-In  (5✩)",
+          "7. Ring of Yaxche (4✩) [R5]",
+          "≈ The Widsith (4✩) [R5]*"
+        ],
+        "artifacts": [
+          "1. Obsidian Codex (4)",
+          "2. Heart of Depth (4)",
+          "3. +20% HP set (2) / +15% Hydro DMG set / +80 EM set (2) / Marechaussee Hunter (2) [Choose Two]",
+          "Conditional (See Notes)",
+          "Marechaussee Hunter (4)*"
+        ],
+        "stats": {
+          "main": [
+            "Sands - HP%/Elemental Mastery",
+            "Goblet - Hydro DMG",
+            "Circlet - Crit Rate/Crit DMG/HP%/Elemental Mastery*",
+            "Check notes"
+          ],
+          "sub": [
+            "1. Crit Rate/DMG",
+            "2. Elemental Mastery ≈ HP%",
+            "3. Flat HP"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "ABILITY TIPS"
+      }
+    ]
+  },
+  {
+    "name": "COLUMBINA",
+    "element": "Hydro",
+    "builds": [
+      {
+        "role": "HIGH ENERGY REQUIREMENT\n\nOFF-FIELD DPS & BUFF SUPPORT\n✩",
+        "weapons": [
+          "1. Nocturne's Curtain Call (5✩)",
+          "2. Prototype Amber (4✩) [R5]",
+          "≈ Sacrificial Jade (4✩)",
+          "3. Favonius Codex (4✩)*"
+        ],
+        "artifacts": [
+          "1. Silken Moon Serenade (4)*",
+          "≈ Aubade of Morningstar and Moon (4)*",
+          "2. +20% HP set (2) / +80 EM set (2) / +20% Energy Recharge set (2) [Choose Two]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - HP%/Energy Recharge",
+            "Goblet - HP%",
+            "Circlet - Crit Rate/Crit DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. Crit Rate/DMG",
+            "3. HP%",
+            "4. Elemental Mastery",
+            "*Prioritize Energy Recharge until requirements are met"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "Starting at Constellation 1, Columbina should use her Burst before her Skill so the extra Gravity Interference triggered by C1 will be buffed by her Burst."
+      },
+      {
+        "role": "LOW ENERGY REQUIREMENT\n\nOFF-FIELD DPS & BUFF SUPPORT\n✩",
+        "weapons": [
+          "1. Nocturne's Curtain Call (5✩)",
+          "2. Sacrificial Jade (4✩)*",
+          "≈ Reliquary of Truth (5✩)",
+          "≈ Surf's Up (5✩)",
+          "≈ Tome of the Eternal Flow (5✩)",
+          "3. Prototype Amber (4✩) [R5]",
+          "≈ Dawning Frost (4✩)",
+          "≈ Kagura's Verity (5✩)",
+          "≈ Lost Prayer to the Sacred Winds (5✩)"
+        ],
+        "artifacts": [
+          "1. Silken Moon Serenade (4)*",
+          "≈ Aubade of Morningstar and Moon (4)*",
+          "2. +20% HP set (2) / +80 EM set (2) [Choose Two]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - HP%",
+            "Goblet - HP%",
+            "Circlet - Crit Rate/Crit DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. Crit Rate/DMG",
+            "3. HP%",
+            "4. Elemental Mastery",
+            "*Small amounts of Energy Recharge might be needed for consistent Bursts every other rotation"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "2. Burst"
+        ],
+        "tips": "Starting at Constellation 1, Columbina should use her Burst before her Skill so the extra Gravity Interference triggered by C1 will be buffed by her Burst."
+      },
+      {
+        "role": "ON-FIELD DPS",
+        "weapons": [
+          "1. Nocturne's Curtain Call (5✩)",
+          "2. Reliquary of Truth (5✩)*",
+          "3. Surf's Up (5✩)",
+          "≈ Tome of the eternal Flow (5✩)",
+          "4. Blackmarrow Lantern (4✩) [R5]*",
+          "5. Ash-Graven Drinking Horn (4✩) [R5]",
+          "≈ Dawning Frost (4✩)",
+          "6. Sacrificial Jade (4✩)*"
+        ],
+        "artifacts": [
+          "1. Night of the Sky's Unveiling (4)",
+          "2. +20% HP set (2) / +80 EM set (2) [Choose Two]"
+        ],
+        "stats": {
+          "main": [
+            "Sands - HP%",
+            "Goblet - HP%",
+            "Circlet - Crit Rate/Crit DMG"
+          ],
+          "sub": [
+            "1. Energy Recharge*",
+            "2. Crit Rate/DMG",
+            "3. HP%",
+            "4. Elemental Mastery",
+            "*Small amounts of Energy Recharge might be needed for consistent Bursts every other rotation"
+          ]
+        },
+        "talent_priority": [
+          "1. Skill",
+          "≈ Normal Attack*",
+          "2. Burst",
+          "* For Lunar Bloom teams only"
+        ],
+        "tips": "Starting at Constellation 1, Columbina should use her Burst before her Skill so the extra Gravity Interference triggered by C1 will be buffed by her Burst."
+      }
+    ]
+  }
+]
