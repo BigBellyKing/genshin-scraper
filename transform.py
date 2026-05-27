@@ -52,7 +52,7 @@ ARTIFACT_MAP = {
     "15% Hydro DMG set": "HeartOfDepth, NymphsDream",
     "18% ATK set": "ADayCarvedFromRisingWinds, FragmentOfHarmonicWhimsy, NighttimeWhispersInTheEchoingWoods, EchoesOfAnOffering, GladiatorsFinale, ShimenawasReminiscence, VermillionHereafter, UnfinishedReverie, DisenchantmentInDeepShadow",
     "20% ER Set": "SilkenMoonsSerenade, EmblemOfSeveredFate, CelestialGift",
-    "20% ER set": "SilkenMoonsSerenade, EmblemOfSeveredFate,CelestialGift",
+    "20% ER set": "SilkenMoonsSerenade, EmblemOfSeveredFate, CelestialGift", # FIXED MISSING SPACE
     "20% Energy Recharge set": "SilkenMoonsSerenade, EmblemOfSeveredFate, CelestialGift",
     "80 EM set": "FlowerOfParadiseLost, GildedDreams, NightOfTheSkysUnveiling, AubadeOfMorningstarAndMoon, WanderersTroupe",
     "15% Cryo DMG set": "BlizzardStrayer, FinaleOfTheDeepGalleries",
@@ -132,9 +132,15 @@ def load_whitelist():
     return allowed
 
 def clean_artifact_name(name):
+    # Translate mojibake to standard symbol
+    name = name.replace('â‰ˆ', '≈')
+    
+    # Strip leading numbers, symbols, and bullets
     name = re.sub(r'^\d+\.\s*', '', name)
-    name = re.sub(r'^[â‰ˆ≈+]\s*', '', name)
-    name = name.replace('â‰ˆ', '').replace('≈', '')
+    name = re.sub(r'^[≈+]\s*', '', name)
+    
+    # Strip inline symbols that break mappings
+    name = name.replace('≈', '')
     name = name.replace('*', '')
     return name.strip()
 
@@ -189,17 +195,20 @@ def extract_artifact_sets(entry):
             sets.append(set_name)
     return sets
 
-def resolve_to_internal_code(raw_string):
+def resolve_to_internal_code(raw_string, char_name):
     cleaned = clean_artifact_name(raw_string)
     extracted_sets = extract_artifact_sets(cleaned)
     final_codes = []
+    
     for s in extracted_sets:
         if s in ARTIFACT_MAP:
             final_codes.append(ARTIFACT_MAP[s])
         else:
             # Fallback logic: removing spaces/symbols
             fallback = s.title().replace(" ", "").replace("'", "").replace("-", "").replace("+", "") 
+            print(f"⚠️ [UNMAPPED ARTIFACT] Char: {char_name} | Raw: '{raw_string}' | Extracted: '{s}' | Guess: '{fallback}'")
             final_codes.append(fallback)
+            
     return ", ".join(final_codes)
 
 def extract_stat_codes(text_list):
@@ -222,7 +231,8 @@ def extract_stat_codes(text_list):
 
 whitelist = load_whitelist()
 all_rows = []
-csv_headers = ["Character Name", "Top Artifact Sets", "Common Sands", "Common Goblet", "Common Circlet", "Substat Priority"]
+# ADDED Raw Artifact String to CSV headers
+csv_headers = ["Character Name", "Raw Artifact String", "Top Artifact Sets", "Common Sands", "Common Goblet", "Common Circlet", "Substat Priority"]
 
 print(f"Reading JSONs from {SOURCE_FOLDER}...")
 
@@ -260,8 +270,8 @@ if os.path.exists(SOURCE_FOLDER):
                         
                         final_artifacts_list = []
                         seen_artifacts = set()
+                        raw_captured = [] # ADDED list to store raw lines
                         
-                        # --- MODIFIED LOGIC START ---
                         # We track how many 'standard' lines we have processed.
                         processed_standard_lines = 0
                         capture_mode = False # Becomes True once we hit "Conditional"
@@ -278,7 +288,6 @@ if os.path.exists(SOURCE_FOLDER):
                                 continue # Skip the header itself
                             
                             # B. Filter out "Edge Case" notes (URLs, calculations)
-                            # If it talks about calculations or HTTP, it's not a set.
                             skip_keywords = ["calculation", "http", "found here", "spreadsheet", "click here"]
                             if any(k in lower_line for k in skip_keywords):
                                 continue
@@ -295,10 +304,13 @@ if os.path.exists(SOURCE_FOLDER):
                                     should_process = True
 
                             if should_process:
-                                code_string = resolve_to_internal_code(clean_line)
+                                # UPDATED to pass display_name
+                                code_string = resolve_to_internal_code(clean_line, display_name)
                                 
                                 # Only add if it actually resolved to something (filters out empty lines or pure text)
                                 if code_string:
+                                    raw_captured.append(clean_line) # Track raw string for CSV
+                                    
                                     # Split in case resolve returned multiple sets "SetA, SetB"
                                     individual_sets = [x.strip() for x in code_string.split(',')]
                                     
@@ -312,9 +324,9 @@ if os.path.exists(SOURCE_FOLDER):
                                     # Increment standard count only if we weren't in capture mode
                                     if not capture_mode and sets_added_from_line:
                                         processed_standard_lines += 1
-                        # --- MODIFIED LOGIC END ---
 
                         artifacts_str = ", ".join(final_artifacts_list)
+                        raw_artifacts_str = " | ".join(raw_captured) # Join raw strings with pipe for CSV
 
                         # Main Stat Processing
                         sands, goblet, circlet = [], [], []
@@ -340,13 +352,16 @@ if os.path.exists(SOURCE_FOLDER):
                         
                         substats_str = ", ".join(substats_list)
 
-                        # Clean role name (remove stars and newlines)
-                        clean_role = build['role'].replace('✩', '').replace('\n', '').strip()
+                        # Clean role name (replace newlines with space, strip stars, remove double spaces)
+                        clean_role = build['role'].replace('✩', '').replace('\n', ' ').strip()
+                        clean_role = " ".join(clean_role.split()) 
+                        
                         # Create character_role format
                         character_with_role = f"{display_name}_{clean_role}"
 
                         row = [
                             character_with_role,
+                            raw_artifacts_str, # ADDED to CSV row
                             artifacts_str,
                             ", ".join(sands),
                             ", ".join(goblet),
