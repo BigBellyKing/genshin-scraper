@@ -2,6 +2,8 @@ import json
 import csv
 import re
 import os
+from datetime import datetime
+
 
 # --- 1. IMPORT CENTRAL CONFIGURATION ---
 from config import (
@@ -181,7 +183,23 @@ if os.path.exists(SOURCE_FOLDER):
                         ]
                         all_rows.append(row)
 
-# --- 4. WRITE CSV ---
+# --- 4. WRITE CSV & ARCHIVE HISTORY ---
+ARCHIVE_FOLDER = "csv_archive"
+
+# Ensure the archive folder exists
+if not os.path.exists(ARCHIVE_FOLDER):
+    os.makedirs(ARCHIVE_FOLDER)
+
+# If an old CSV exists, move it to the archive with a timestamp
+if os.path.exists(OUTPUT_FILE):
+    # Get the timestamp of when we are archiving it
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    archived_filename = os.path.join(ARCHIVE_FOLDER, f"artifacts_usage_{timestamp}.csv")
+    
+    os.rename(OUTPUT_FILE, archived_filename)
+    print(f"💾 Archived previous meta to {archived_filename}")
+
+# Write the new fresh CSV
 with open(OUTPUT_FILE, 'w', newline='', encoding='utf-8') as f:
     writer = csv.writer(f)
     writer.writerow(csv_headers)
